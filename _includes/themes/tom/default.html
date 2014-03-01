@@ -15,6 +15,9 @@
    <!-- Typekit -->
    <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	<!-- my custom google search -->
+{% include gsearch.html %}
+
 </head>
 <body>
 
@@ -26,6 +29,10 @@
       <!--<a class="extra" href="{{ BASE_PATH }}{{ site.JB.pages_path }}">Projek</a>-->
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}">Kategori</a>
       <a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}">Tag</a>
+     <!-- my custom google search -->
+<form onsubmit="my_search_google()" >
+  <input type="text" id="my-google-search">
+</form>	
     </div>
     {{ BASE_PATH }}{{ site.JB.pages_path }}
     {{ content }}
