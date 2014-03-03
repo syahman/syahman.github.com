@@ -1,4 +1,4 @@
 echo ""
-echo "My name is Truong"
-echo "Website: http://truongtx.me"
-echo "Email: me@truongtx.me"
+echo "syahman"
+echo "Website: http://www.shmn.my"
+echo "Email: me@shmn"

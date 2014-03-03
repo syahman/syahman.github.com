@@ -13,13 +13,13 @@ safe: true
 title : SHMN.MY
 tagline: 
 author :
-  name : Trường TX
-  email : me@truongtx.me
-  github : tmtxt
-  twitter : mr_truong_tx
-  facebook : mr.truong.tx
-  linkedin : tmtxt
-  google_plus : TrầnXuânTrường
+  name : syahman
+  email : syahman.mohd@gmail.com
+  github : syahman
+  twitter : ayohmang
+  facebook : ayohmang
+  linkedin : syahman.mohd
+  google_plus : ayohmang
   stack_exchange: 36876xx
   
 # The production_url is only used when full-domain names are needed
@@ -91,9 +91,9 @@ JB :
     intensedebate :
       account : 123abc
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
+      appid : 
+      num_posts: 
+      width: 
       colorscheme: light
    
   # Settings for analytics helper
