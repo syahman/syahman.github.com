@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>404 Not found</title>
+	
+	
+	<meta name="author" content="syahman">
+
+	<!-- bootstrap -->
+	<script src="/assets/js/jquery.js"></script>			 <!-- jquery -->
+	<meta name="viewport"
+		  content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/assets/js/bootstrap.min.js"></script>
+
+	<!-- others -->
+	<link rel="stylesheet" href="/assets/css/pygments.css"> <!-- pygments -->
+	<meta charset="UTF-8">										 <!-- unicode -->
+	<link rel="stylesheet" href="/assets/css/font-awesome.min.css"> <!-- font awesome -->
+	
+	<!-- custom -->
+	  <script language="Javascript" type="text/javascript">
+  // the standard URL should be used
+  var normalized_location;
+normalized_location = "http://" + window.location.host + window.location.pathname;
+
+// if the current URL is not the standard URL, redirect it to standard URL
+if(window.location.toString() != normalized_location){
+  if(window.location.search.toString().charAt(0) == '?')
+    window.location = normalized_location;
+}
+</script>
+
+	<script language="Javascript" type="text/javascript">
+  function tmtxt_search_google()
+  {
+    var query = document.getElementById("tmtxt-google-search").value;
+    window.open("http://google.com/search?q=" + query + "%20site:www.shmn.my");
+  }
+</script>
+
+	<link rel="stylesheet" href="/assets/css/custom.css"> <!-- pygments -->
+  </head>
+
+  <body style="background-color:#fff;">
+			   
+
+	<!-- navigation bar -->
+	<nav class="navbar navbar-default bs-docs-nav" role="navigation">
+	  <div class="container">
+	  <!-- Brand and toggle get grouped for better mobile display -->
+	  <div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		  <span class="sr-only">Toggle navigation</span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand" href="/">SHMN.MY</a>
+	  </div>
+
+	  <!-- Collect the nav links, forms, and other content for toggling -->
+	  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		<ul class="nav navbar-nav">
+		  <li><a href="/categories.html">Categories</a></li>
+		  <li><a href="/archive.html">Archive</a></li>
+		  <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
+			<ul class="dropdown-menu">
+			  <li><a href="mailto:syahman.mohd@gmail.com">
+				  <i class="fa fa-envelope fa-lg fa-fw"></i> Email</a></li>
+			  <li><a target="blank" href="https://twitter.com/ayohmang">
+				  <i class="fa fa-twitter-square fa-lg fa-fw"></i> Twitter</a></li>
+			  <li><a target="blank" href="http://facebook.com/ayohmang">
+				  <i class="fa fa-facebook-square fa-lg fa-fw"></i> Facebook</a></li>
+			  <li><a target="blank" href="http://vn.linkedin.com/in/syahman.mohd">
+				  <i class="fa fa-linkedin-square fa-lg fa-fw"></i> Linkedin</a></li>
+			  <li><a target="blank" href="https://plus.google.com/+ayohmang">
+				  <i class="fa fa-google-plus-square fa-lg fa-fw"></i> Google+</a></li>
+			  <li><a target="blank" href="https://github.com/syahman">
+				  <i class="fa fa-github-square fa-lg fa-fw"></i> Github</a></li>
+			  <li><a target="blank" href="http://stackexchange.com/users/36876xx">
+				  <i class="fa fa-stack-exchange fa-lg fa-fw"></i> Stack Exchange</a></li>
+			  <li class="divider"></li>
+			  <li><a href="/about.html">About me</a></li>
+			</ul>
+		  </li>
+		  <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Project <b class="caret"></b></a>
+			<ul class="dropdown-menu">
+			  <li><a href="#">PHPMyTNT-Web</a></li>
+			  <li><a href="#">MobileMyTNT</a></li>
+			  
+			</ul>
+		  </li>
+		</ul>
+		<form class="navbar-form navbar-left" role="search" onsubmit="tmtxt_search_google()">
+		  <div class="form-group">
+			<input type="text" class="form-control" placeholder="Search" id="tmtxt-google-search">
+		  </div>
+		</form>
+	  </div><!-- /.navbar-collapse -->
+	  </div>
+	</nav>
+	<!-- end nav bar -->
+
+	<div class="container">
+	  <!-- content of the page -->
+        <img src="/files/404/404.jpg" alt="404 Not found!!!!!!" align="center" />
+
+      
+	  <!-- footer -->
+      <footer style="text-align: center">
+        <p>&copy; syahman 2012
+          with help from
+		  <a href="http://jekyllbootstrap.com" target="_blank"
+			 title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and
+		  <a href="http://twitter.github.com/bootstrap/"
+			 target="_blank">Twitter Bootstrap</a>
+        </p>
+      </footer>
+	</div>
+
+	<!-- analytic -->
+    
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-46261463-1x']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+  </body>
+</html>
