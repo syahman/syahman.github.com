@@ -1,0 +1,326 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>PgBadger is a PostgreSQL log analyzer - with speed - Part I</title>
+	
+	<meta name="description" content="">
+	<meta name="author" content="syahman">
+
+	<!-- bootstrap -->
+	<script src="/assets/js/jquery.js"></script>			 <!-- jquery -->
+	<meta name="viewport"
+		  content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/assets/js/bootstrap.min.js"></script>
+
+	<!-- others -->
+	<link rel="stylesheet" href="/assets/css/pygments.css"> <!-- pygments -->
+	<meta charset="UTF-8">										 <!-- unicode -->
+	<link rel="stylesheet" href="/assets/css/font-awesome.min.css"> <!-- font awesome -->
+	
+	<!-- custom -->
+	  <script language="Javascript" type="text/javascript">
+  // the standard URL should be used
+  var normalized_location;
+normalized_location = "http://" + window.location.host + window.location.pathname;
+
+// if the current URL is not the standard URL, redirect it to standard URL
+if(window.location.toString() != normalized_location){
+  if(window.location.search.toString().charAt(0) == '?')
+    window.location = normalized_location;
+}
+</script>
+
+	<script language="Javascript" type="text/javascript">
+  function tmtxt_search_google()
+  {
+    var query = document.getElementById("tmtxt-google-search").value;
+    window.open("http://google.com/search?q=" + query + "%20site:www.shmn.my");
+  }
+</script>
+
+	<link rel="stylesheet" href="/assets/css/custom.css"> <!-- pygments -->
+  </head>
+
+  <body style="background-color:#fff;">
+			   
+
+	<!-- navigation bar -->
+	<nav class="navbar navbar-default bs-docs-nav" role="navigation">
+	  <div class="container">
+	  <!-- Brand and toggle get grouped for better mobile display -->
+	  <div class="navbar-header">
+		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+		  <span class="sr-only">Toggle navigation</span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		  <span class="icon-bar"></span>
+		</button>
+
+		<a class="navbar-brand" href="/"> <i class="glyphicon glyphicon-user"></i> SHMN.MY</a>
+	  </div>
+
+	  <!-- Collect the nav links, forms, and other content for toggling -->
+	  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		<ul class="nav navbar-nav">
+		  <li><a href="/categories.html">Categories</a></li>
+		  <li><a href="/archive.html">Archive</a></li>
+		  <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
+			<ul class="dropdown-menu">
+			  <li><a href="mailto:syahman.mohd@gmail.com">
+				  <i class="fa fa-envelope fa-lg fa-fw"></i> Email</a></li>
+			  <li><a target="blank" href="https://twitter.com/ayohmang">
+				  <i class="fa fa-twitter-square fa-lg fa-fw"></i> Twitter</a></li>
+			  <li><a target="blank" href="http://facebook.com/ayohmang">
+				  <i class="fa fa-facebook-square fa-lg fa-fw"></i> Facebook</a></li>
+			  <li><a target="blank" href="http://vn.linkedin.com/in/syahman.mohd">
+				  <i class="fa fa-linkedin-square fa-lg fa-fw"></i> Linkedin</a></li>
+			  <li><a target="blank" href="https://plus.google.com/+ayohmang">
+				  <i class="fa fa-google-plus-square fa-lg fa-fw"></i> Google+</a></li>
+			  <li><a target="blank" href="https://github.com/syahman">
+				  <i class="fa fa-github-square fa-lg fa-fw"></i> Github</a></li>
+			  <li><a target="blank" href="http://stackexchange.com/users/36876xx">
+				  <i class="fa fa-stack-exchange fa-lg fa-fw"></i> Stack Exchange</a></li>
+			  <li class="divider"></li>
+			  <li><a href="#" data-toggle="modal" data-target="#aboutme">About me</a></li>
+			</ul>
+		  </li>
+		  <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Project <b class="caret"></b></a>
+			<ul class="dropdown-menu">
+			  <li><a href="#">PHPMyTNT-Web</a></li>
+			  <li><a href="#">MobileMyTNT</a></li>
+			  
+			</ul>
+		  </li>
+		</ul>
+		<form class="navbar-form navbar-left" role="search" onsubmit="tmtxt_search_google()">
+		  <div class="form-group">
+			<input type="text" class="form-control" placeholder="Search" id="tmtxt-google-search">
+		  </div>
+		</form>
+	  </div><!-- /.navbar-collapse -->
+	  </div>
+	</nav>
+	<!-- end nav bar -->
+
+	<div class="container">
+	  <!-- content of the page -->
+        
+
+<div class="panel panel-default">
+  <div class="panel-body" style="margin-top:0px;padding-top:0px;">
+  <!-- hero -->
+  <div class="row">
+	<div class="col-md-12 hidden-xs hidden-sm"
+		 style="background-image:url('/assets/images/banner.png');
+				height:200px;background-position:right top">
+	  <h1 style="padding-left:100px;color:inherit;font-size:60px">Trường TX blog</h1>
+	  <p style="padding-left:100px">I program my life</p>
+	</div>
+  </div>
+
+  <!-- page header -->
+  <div class="page-header">
+	<h1 style="font-size:40px;">PgBadger is a PostgreSQL log analyzer - with speed - Part I<br />
+	  <small><!-- Supporting tagline --></small></h1>
+  </div>
+
+  <!-- post content -->
+  <div class="row">
+	<div class="col-md-9">
+	  <p>For those of you who haven’t known about pgBadger yet, here is a brief description about it:</p>
+
+<p>pgBadger is a PostgreSQL log analyzer build for speed with fully detailed reports from your PostgreSQL log file. It’s a single and small Perl script that outperform any other PostgreSQL log analyzer.</p>
+
+<p>It is written in pure Perl language and uses a javascript library (flotr2) to draw graphs so that you don’t need to install any additional Perl modules or other packages. Furthermore, this library gives us more features such as zooming. pgBadger also uses the Bootstrap javascript library and the FontAwesome webfont for better design. Everything is embedded.</p>
+<!-- more -->
+<p>Article’s Outline</p>
+
+<ol>
+<li>Installation</li>
+
+<li>Sample Report</li>
+
+<li>Sanity Checking With SAR Report</li>
+
+<li>Troubleshoot PostgreSQL Performance</li>
+</ol>
+	</div>
+	
+	<div class="col-md-3">
+	  <p>
+		<i class="fa fa-calendar"></i>
+		<span>06 March 2014</span>
+	  </p>
+	  <p>
+		<i class="fa fa-folder-o"></i> Category: 
+		<a href="/categories.html#postgreSQL-ref">
+		  postgreSQL
+		</a>
+	  </p>
+	  <p>
+		<i class="fa fa-tags"></i> Tags
+		<ul class="fa-ul">
+		  
+		  
+
+
+  
+     
+    	<li><i class="fa fa-tag"></i> <a href="/tags.html#postgres-ref">postgres <span class="badge badge-success">1</span></a></li>
+     
+    	<li><i class="fa fa-tag"></i> <a href="/tags.html#performance-ref">performance <span class="badge badge-success">1</span></a></li>
+    
+  
+
+
+
+		</ul>
+	  </p>
+	  <hr/>
+	  <h4>
+		Share to your friend
+	  </h4>
+	  <p>
+		<!-- <ul class="fa-ul"> -->
+  <!-- facebook -->
+  <!-- <li> -->
+	
+	<a href="#"
+   onclick="popUp=window.open('http://www.facebook.com/sharer.php?src=bm&v=4&i=1279479932&u=http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer&t=PgBadger is a PostgreSQL log analyzer - with speed - Part I',
+			'popupwindow',
+			'scrollbars=yes,width=800,height=600');popUp.focus();return
+			false"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
+  <!-- </li> -->
+
+  <!-- twitter -->
+  <!-- <li> -->
+	
+	<a href="#"
+   onclick="popUp=window.open('https://twitter.com/intent/tweet?original_referer=http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer&text=PgBadger is a PostgreSQL log analyzer - with speed - Part I&tw_p=tweetbutton&url=http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer&via=mr_truong_tx',
+			'popupwindow',
+			'scrollbars=yes,width=800,height=600');popUp.focus();return
+			false"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
+  <!-- </li> -->
+
+  <!-- linkedin -->
+  <!-- <li> -->
+	
+	<a href="#"
+   onclick="popUp=window.open('http://www.linkedin.com/shareArticle?mini=true&url=http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer&title=PgBadger is a PostgreSQL log analyzer - with speed - Part I&source=http://truongtx.me',
+			'popupwindow',
+			'scrollbars=yes,width=800,height=600');popUp.focus();return
+			false"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
+  <!-- </li> -->
+
+  <!-- google plus -->
+  <!-- <li> -->
+	
+	<a href="#"
+   onclick="popUp=window.open('https://plus.google.com/share?url=http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer',
+			'popupwindow',
+			'scrollbars=yes,width=800,height=600');popUp.focus();return
+			false"><i class="fa fa-google-plus fa-fw fa-3x"></i></a>
+  <!-- </li> -->
+<!-- </ul> -->
+
+	  </p>
+	</div>
+  </div>
+
+  <div class="row">
+	<div class="col-md-12">
+	  <hr>
+	  <ul class="pager">
+		
+        <li class="previous disabled"><a>&larr; Previous</a></li>
+		
+        <li><a href="/archive.html">Archive</a></li>
+		
+        <li class="next disabled"><a>Next &rarr;</a>
+		  
+	  </ul>
+      <hr>
+	  
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    
+    var disqus_shortname = 'tommytxtruongx'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+	</div>
+	
+  </div>
+  </div>
+</div>
+
+      
+	  <!-- footer -->
+      <footer style="text-align: center">
+        <p>&copy; syahman 2012
+          with help from
+		  <a href="http://jekyllbootstrap.com" target="_blank"
+			 title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+          and
+		  <a href="http://twitter.github.com/bootstrap/"
+			 target="_blank">Twitter Bootstrap</a>
+        </p>
+      </footer>
+	</div>
+
+	<!-- Modal -->
+<div class="modal fade" id="aboutme" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title" id="myModalLabel">About Me</h4>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+       
+      </div>
+    </div>
+  </div>
+</div>
+
+	<!-- analytic -->
+    
+
+
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-46261463-1x']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+  </body>
+</html>

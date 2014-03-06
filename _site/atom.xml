@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>SHMN.MY</title>
+ <link href="http://www.shmn.my/atom.xml" rel="self"/>
+ <link href="http://www.shmn.my"/>
+ <updated>2014-03-06T23:59:05+08:00</updated>
+ <id>http://www.shmn.my</id>
+ <author>
+   <name>syahman</name>
+   <email>syahman.mohd@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>PgBadger is a PostgreSQL log analyzer - with speed - Part I</title>
+   <link href="http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer"/>
+   <updated>2014-03-06T00:00:00+08:00</updated>
+   <id>http://www.shmn.my/2014/03/06/pgbadger-fast-postgresql-log-analyzer</id>
+   <content type="html">&lt;p&gt;For those of you who haven’t known about pgBadger yet, here is a brief description about it:&lt;/p&gt;
+
+&lt;p&gt;pgBadger is a PostgreSQL log analyzer build for speed with fully detailed reports from your PostgreSQL log file. It’s a single and small Perl script that outperform any other PostgreSQL log analyzer.&lt;/p&gt;
+
+&lt;p&gt;It is written in pure Perl language and uses a javascript library (flotr2) to draw graphs so that you don’t need to install any additional Perl modules or other packages. Furthermore, this library gives us more features such as zooming. pgBadger also uses the Bootstrap javascript library and the FontAwesome webfont for better design. Everything is embedded.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Article’s Outline&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Installation&lt;/li&gt;
+
+&lt;li&gt;Sample Report&lt;/li&gt;
+
+&lt;li&gt;Sanity Checking With SAR Report&lt;/li&gt;
+
+&lt;li&gt;Troubleshoot PostgreSQL Performance&lt;/li&gt;
+&lt;/ol&gt;</content>
+ </entry>
+ 
+ 
+</feed>
