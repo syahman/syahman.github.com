@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PgBadger is a PostgreSQL log analyzer - with speed - Part I"
+title: "PgBadger Untuk Menyemak Log Pangkalan Data PostgreSQL - Bahagian I"
 description: ""
 category: postgreSQL
 tags: [postgres, performance]
