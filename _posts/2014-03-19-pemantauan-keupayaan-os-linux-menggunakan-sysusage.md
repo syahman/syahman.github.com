@@ -11,7 +11,7 @@ SysUsage ( [SysUsage GitHub Repo](https://github.com/darold/sysusage) ) adalah p
 
 <!-- more -->
 
-Manual pemasangan dan dokumenatasi boleh diperolehi di [sini] (http://sysusage.darold.net). Bagi pengguna Centos atau RedHat,Fedora boleh menggunakan repo rpm (EPEL) di [sini] (http://pkgs.org/centos-6/epel-i386/sysusage-5.3-5.el6.noarch.rpm.html). 
+Manual pemasangan dan dokumentasi boleh diperolehi di [sini] (http://sysusage.darold.net). Bagi pengguna Centos atau RedHat,Fedora boleh menggunakan repo rpm (EPEL) di [sini] (http://pkgs.org/centos-6/epel-i386/sysusage-5.3-5.el6.noarch.rpm.html). 
 
 Saya kerapkali menggabungkan analisis data OS yang dijana oleh SysUsage dengan pgBadger untuk semakan keupayaan dan prestasi serta perbandingan pangkalan data PostgreSQL. 
 
