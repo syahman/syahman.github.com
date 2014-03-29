@@ -13,7 +13,7 @@ SysUsage ( [SysUsage GitHub Repo](https://github.com/darold/sysusage) ) adalah p
 
 Manual pemasangan dan dokumentasi boleh diperolehi di [sini] (http://sysusage.darold.net). Bagi pengguna Centos atau RedHat,Fedora boleh menggunakan repo rpm (EPEL) di [sini] (http://pkgs.org/centos-6/epel-i386/sysusage-5.3-5.el6.noarch.rpm.html). 
 
-Windows OS ? SysUsage untuk unix/linux sahaja. Tetapi saya ada terjumpa blog untuk menjana laporan daripada Windows Perfmon, juga menggunakan rrdtool di [sini] (http://www.ludovicocaldara.net/dba/generating-graphs-massively-from-windows-performance-counters-logs/). Rujuk artikel saya[Gabungan PHP/rrdtools Untuk Menjana Graf Keupayaan Windows OS] (windows-php-rrdtools.html).
+Windows OS ? SysUsage untuk unix/linux sahaja. Tetapi saya ada terjumpa blog untuk menjana laporan daripada Windows Perfmon, juga menggunakan rrdtool di [sini] (http://www.ludovicocaldara.net/dba/generating-graphs-massively-from-windows-performance-counters-logs/). Rujuk artikel saya [Gabungan PHP/rrdtools Untuk Menjana Graf Keupayaan Windows OS] (windows-php-rrdtools.html).
 
 Saya kerapkali menggabungkan analisis data OS yang dijana oleh SysUsage dengan pgBadger untuk semakan keupayaan dan prestasi serta perbandingan pangkalan data PostgreSQL. 
 
