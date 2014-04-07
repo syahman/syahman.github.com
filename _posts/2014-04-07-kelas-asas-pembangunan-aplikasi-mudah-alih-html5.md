@@ -1,10 +1,11 @@
 ---
-layout: page
-title: "Kursus Asas Pembangunan Aplikasi Mudah Alih HTML5"
-description: "teststststs"
+layout: post
+title: "Kelas Asas Pembangunan Aplikasi Mudah Alih HTML5"
+description: ""
+category: 
+tags: []
 ---
 {% include JB/setup %}
-
 
 **Kursus Asas Pembangunan Aplikasi Mobile/Telefon Pintar Berasaskan HTML5**
 
@@ -16,7 +17,7 @@ Kursus ini memerlukan pelajar membawa Notebook(Windows 7,8 atau Mac) masing-masi
 
 Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jquery,ajax). 
 
-
+---
 
 1. Latest Android Studio + Android SDK
 2. Intel Hardware Accelerated Execution Manager. 
@@ -34,8 +35,3 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 14. Netbeans 8 for PHP/HTML5.
 15. Pelayar Chrome versi terkini.
 16. Intel XDK.
-
-
-
-
-
