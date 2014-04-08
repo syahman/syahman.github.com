@@ -19,6 +19,8 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 
 ---
 
+**Senarai Keperluan/Peralatan Pembangunan**
+
 1. Latest Android Studio + Android SDK
 2. Intel Hardware Accelerated Execution Manager. 
 3. Configap - Configap.com.
