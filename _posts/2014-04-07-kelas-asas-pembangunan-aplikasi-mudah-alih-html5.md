@@ -43,5 +43,15 @@ Lokasi : akan diberitahu
 Tarikh : 20 April 2014   
 Masa   : 9.00 pg - 5.00 ptg   
 Yuran  : RM50 ( Termasuk Makan/Minum )  
- 
+
+---
+
+Senarai Peserta : 
+
+1. Siti Nor Aishah Binti Sudin  
+2. Mohd Jailani Bin Mat Said  
+3. Nor Hastini Binti Abdul Rashid  
+4. Jafrizal Bin Ahmad  
+
+
 
