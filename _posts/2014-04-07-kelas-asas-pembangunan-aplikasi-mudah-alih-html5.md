@@ -35,7 +35,10 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 12. Node.js for Windows.
 13. Apache ANT for Windows.
 14. Netbeans 8 for PHP/HTML5.
-15. Pelayar Chrome versi terkini.
+15. Pelayar Chrome versi terkini.  
+
+Untuk komunikasi data antara apps dengan REST, pastikan laptop juga telah dipasang webserver dan php. saya guna php slim framework untuk REST API.
+
 
 ---
 
