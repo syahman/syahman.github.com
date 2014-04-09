@@ -39,8 +39,9 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 
 ---
 
-Lokasi : akan diberitahu 
-Tarikh : 20 April 2014 
-Masa   : 9.00 pg - 5.00 ptg 
-Yuran  : RM50 ( Termasuk Makan/Minum ) 
+Lokasi : akan diberitahu   
+Tarikh : 20 April 2014   
+Masa   : 9.00 pg - 5.00 ptg   
+Yuran  : RM50 ( Termasuk Makan/Minum )  
+ 
 
