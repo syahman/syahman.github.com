@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kelas Asas Pembangunan Aplikasi Mudah Alih HTML5"
+title: "Kursus Asas Pembangunan Aplikasi Mudah Alih HTML5"
 description: ""
 category: 
 tags: []
