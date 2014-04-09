@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-**Kursus Asas Pembangunan Aplikasi Mobile/Telefon Pintar Berasaskan HTML5**
+**Kursus Asas Pembangunan Aplikasi Mobile/Telefon Pintar Berasaskan HTML5 Anjuran PESIMA**
 
 Kursus ini bertujuan memberi pendedahan kepada pelajar mengenai pembangunan aplikasi mobile menggunakan teknologi web sedia ada seperti javascript,html5,css3. Gabungan dengan PhoneGap/Cordova(sila google Phonegap atau cordova) membolehkan aplikasi dilarikan atas Android,IOS,Blackberry dan lain-lain OS mobile(multi-plaform). Dalam kelas ini akan menggunakan framework cordova untuk integrasi dengan telefon pintar/tablet anda dan platform android sahaja.
 
