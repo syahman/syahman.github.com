@@ -36,8 +36,12 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 13. Apache ANT for Windows.
 14. Netbeans 8 for PHP/HTML5.
 15. Pelayar Chrome versi terkini.  
+16. Bluestacks App Player - BlueStacks App Player lets you run your favorite  
+    mobile apps fast and fullscreen in your browser and on PC or Mac.
 
-Untuk komunikasi data antara apps dengan REST, pastikan laptop juga telah dipasang webserver dan php. saya guna php slim framework untuk REST API.
+17. Android Phone/Tablet
+
+Untuk komunikasi data antara apps dengan REST, pastikan laptop juga telah dipasang **webserver dan php**. saya guna **php slim framework** untuk REST API.
 
 
 ---
