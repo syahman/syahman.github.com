@@ -2,7 +2,11 @@
 layout: post
 title: "Cara Backup/Clone PostgreSQL guna pg_basebackup"
 description: ""
-category: 
-tags: []
+category: postgreSQL
+tags: [postgresql]
 ---
 {% include JB/setup %}
+
+<!-- more -->
+
+**Nota akan dikemaskini**
