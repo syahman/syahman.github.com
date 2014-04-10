@@ -62,7 +62,8 @@ Senarai Peserta :
 
 Daftar Sekarang  
 
-<iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Harap Maaf, Pendaftaran akan dibuka semula pada Isnin, 14 April 2014. Kepada yang telah membuat pembayaran, penyertaan anda akan diterima.
+
 
 
 
