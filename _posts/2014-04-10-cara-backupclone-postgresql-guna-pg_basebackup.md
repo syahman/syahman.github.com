@@ -9,4 +9,4 @@ tags: [postgresql]
 
 <!-- more -->
 
-**Nota akan dikemaskini**
+Nota akan dikemaskini
