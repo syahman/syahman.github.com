@@ -9,6 +9,7 @@ tags: []
 
 Daftar Sekarang  
 
-<iframe src="https://docs.google.com/forms/d/1Fkgp_clH7BlV7Jr2cIw4Skv7Kl8FrbknpGeIZMGjwmc/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Harap Maaf, Pendaftaran akan dibuka semula pada Isnin, 14 April 2014. Kepada yang telah membuat pembayaran, penyertaan anda akan diterima.
+
 
 
