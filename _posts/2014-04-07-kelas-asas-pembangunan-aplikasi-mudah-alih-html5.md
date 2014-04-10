@@ -2,8 +2,8 @@
 layout: post
 title: "Kursus Asas Pembangunan Aplikasi Mudah Alih HTML5"
 description: ""
-category: 
-tags: []
+category: kelas
+tags: [html5,mobile]
 ---
 {% include JB/setup %}
 

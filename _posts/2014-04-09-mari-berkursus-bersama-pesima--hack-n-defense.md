@@ -2,8 +2,8 @@
 layout: post
 title: "Mari Berkursus Bersama PESIMA : Hack N Defense"
 description: ""
-category: 
-tags: []
+category: kelas
+tags: [security,owasp]
 ---
 {% include JB/setup %}
 
