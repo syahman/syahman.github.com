@@ -21,7 +21,7 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 
 **Senarai Keperluan/Peralatan Pembangunan (Windows)**
 
-1. Latest Android Studio + Android SDK - http://developer.android.com/sdk/installing/studio.html
+1. Latest Android Studio + Android SDK - [http://developer.android.com/sdk/installing/studio.html](http://developer.android.com/sdk/installing/studio.html)
 2. Intel Hardware Accelerated Execution Manager - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
 3. Configap - Configap.com.
 4. Templat JQM - http://github.com/syahman/jqmTpl.
