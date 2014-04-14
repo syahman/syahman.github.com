@@ -53,14 +53,14 @@ Yuran  : RM50 ( Termasuk Makan/Minum )
 
 ---
 
-Senarai Peserta : 
+Senarai Yang Mendaftar : 
 
-1. Siti Nor Aishah Binti Sudin  
-2. Mohd Jailani Bin Mat Said  
-3. Nor Hastini Binti Abdul Rashid  
-4. Jafrizal Bin Ahmad  
-5. Mohd Rasydan  
-6. Shahrizan Bin Md Rajak  
+1. Mohd Rasydan Bin Ahmad  
+2. Norliyati Rohman  
+3. Siti Nor Aisyah Sudin  
+4. Marzida Binti Hashim  
+5. Sendy Yanty Syaman  
+	
 
 ---
 
