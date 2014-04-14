@@ -22,22 +22,22 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 **Senarai Keperluan/Peralatan Pembangunan (Windows)**
 
 1. Latest Android Studio + Android SDK - [http://developer.android.com/sdk/installing/studio.html](http://developer.android.com/sdk/installing/studio.html)
-2. Intel Hardware Accelerated Execution Manager - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
-3. Configap - Configap.com.
-4. Templat JQM - http://github.com/syahman/jqmTpl.
-5. Notepad++ / Sublime Text Editor. 
-6. Pustaka handlebars.js terkini -http://handlebarsjs.com
-7. Ripple Emulator - http://ripple.incubator.apache.org/#download
-8. Pustaka Jquery/Jquery Mobile terkini.
-9. Buka akaun percuma di http://build.phonegap.com.
-10. Buka akaun percuma di http://openshift.redhat.com/app/account/new.
-11. Codiqa for Desktop (7 day trial) - https://codiqa.com/desktop
-12. Node.js for Windows - http://nodejs.org/download/
-13. Apache ANT for Windows - https://code.google.com/p/winant/
-14. Netbeans 8 for PHP/HTML5 - https://netbeans.org/downloads/ (Pilih HTML5 & PHP)
+2. Intel Hardware Accelerated Execution Manager - [https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager](https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager)
+3. Configap - [http://configap.com](http://configap.com)
+4. Templat JQM - [http://github.com/syahman/jqmTpl](http://github.com/syahman/jqmTpl)
+5. Notepad++ / Sublime Text Editor. Google **;-)**
+6. Pustaka handlebars.js terkini - [http://handlebarsjs.com](http://handlebarsjs.com)
+7. Ripple Emulator - [http://ripple.incubator.apache.org/#download](http://ripple.incubator.apache.org/#download)
+8. Pustaka Jquery Mobile terkini - [http://jquerymobile.com/resources/download/jquery.mobile-1.4.2.zip](http://jquerymobile.com/resources/download/jquery.mobile-1.4.2.zip)
+9. Buka akaun percuma di [http://build.phonegap.com](http://build.phonegap.com)
+10. Buka akaun percuma di [http://openshift.redhat.com/app/account/new](http://openshift.redhat.com/app/account/new)
+11. Codiqa for Desktop (7 day trial) - [https://codiqa.com/desktop](https://codiqa.com/desktop)
+12. Node.js for Windows - [http://nodejs.org/download](http://nodejs.org/download)
+13. Apache ANT for Windows - [https://code.google.com/p/winant](https://code.google.com/p/winant)
+14. Netbeans 8 for PHP/HTML5 - [https://netbeans.org/downloads](https://netbeans.org/downloads) (Pilih HTML5 & PHP)
 15. Pelayar Chrome versi terkini.  
 16. Bluestacks App Player - BlueStacks App Player lets you run your favorite  
-    mobile apps fast and fullscreen in your browser and on PC or Mac. - http://www.bluestacks.com
+    mobile apps fast and fullscreen in your browser and on PC or Mac. - [http://www.bluestacks.com](http://www.bluestacks.com)
 
 17. Android Phone/Tablet
 
