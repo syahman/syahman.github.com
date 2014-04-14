@@ -19,25 +19,25 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 
 ---
 
-**Senarai Keperluan/Peralatan Pembangunan**
+**Senarai Keperluan/Peralatan Pembangunan (Windows)**
 
-1. Latest Android Studio + Android SDK
-2. Intel Hardware Accelerated Execution Manager. 
+1. Latest Android Studio + Android SDK - http://developer.android.com/sdk/installing/studio.html
+2. Intel Hardware Accelerated Execution Manager - https://software.intel.com/en-us/android/articles/intel-hardware-accelerated-execution-manager
 3. Configap - Configap.com.
 4. Templat JQM - http://github.com/syahman/jqmTpl.
-5. Notepad++ / Sublime Text Editor.
-6. Pustaka handlebars.js terkini.
-7. Ripple Emulator.
+5. Notepad++ / Sublime Text Editor. 
+6. Pustaka handlebars.js terkini -http://handlebarsjs.com
+7. Ripple Emulator - http://ripple.incubator.apache.org/#download
 8. Pustaka Jquery/Jquery Mobile terkini.
 9. Buka akaun percuma di http://build.phonegap.com.
 10. Buka akaun percuma di http://openshift.redhat.com/app/account/new.
-11. Codiqa for Desktop (7 day trial).
-12. Node.js for Windows.
-13. Apache ANT for Windows.
-14. Netbeans 8 for PHP/HTML5.
+11. Codiqa for Desktop (7 day trial) - https://codiqa.com/desktop
+12. Node.js for Windows - http://nodejs.org/download/
+13. Apache ANT for Windows - https://code.google.com/p/winant/
+14. Netbeans 8 for PHP/HTML5 - https://netbeans.org/downloads/ (Pilih HTML5 & PHP)
 15. Pelayar Chrome versi terkini.  
 16. Bluestacks App Player - BlueStacks App Player lets you run your favorite  
-    mobile apps fast and fullscreen in your browser and on PC or Mac.
+    mobile apps fast and fullscreen in your browser and on PC or Mac. - http://www.bluestacks.com
 
 17. Android Phone/Tablet
 
@@ -46,14 +46,14 @@ Untuk komunikasi data antara apps dengan REST, pastikan laptop juga telah dipasa
 
 ---
 
-Lokasi : akan diberitahu   
+Lokasi : Bilik Latihan ICT Aras 2, JPA Cyberjaya  
 Tarikh : 20 April 2014   
 Masa   : 9.00 pg - 5.00 ptg   
 Yuran  : RM50 ( Termasuk Makan/Minum )  
 
 ---
 
-Senarai Yang Mendaftar : 
+Senarai Yang Telah Mendaftar : 
 
 1. Mohd Rasydan Bin Ahmad  
 2. Norliyati Rohman  
@@ -61,8 +61,11 @@ Senarai Yang Mendaftar :
 4. Marzida Binti Hashim  
 5. Sendy Yanty Syaman  
 6. Ardzry Hafeez 
+7. Ismail Che Ani
+8. Mohd Khairuddin Bin Che Ibrahim
+9. Mohd Zaki Bin Mustafa
+10. Sayid Muhammad Anuar Bin Sayid Mustaffa
 
-	
 
 ---
 
