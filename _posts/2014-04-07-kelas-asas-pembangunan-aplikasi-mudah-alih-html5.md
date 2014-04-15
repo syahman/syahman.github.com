@@ -76,5 +76,12 @@ Daftar Sekarang
 <iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
+---
+
+**Antara Rujukan Inspirasi**
+
+1. [30 Cheatsheets And Infographics For Mobile App Developer](http://www.hongkiat.com/blog/cheatsheet-app-developers-designers/)  
+2. [The Rock N Coder, Mobile & Mobile Web Development Tips,Tricks,Reviews](http://therockncoder.blogspot.com)  
+
 
 
