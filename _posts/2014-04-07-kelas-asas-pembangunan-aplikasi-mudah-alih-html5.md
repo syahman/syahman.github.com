@@ -65,6 +65,8 @@ Senarai Yang Telah Mendaftar :
 8. Mohd Khairuddin Bin Che Ibrahim
 9. Mohd Zaki Bin Mustafa
 10. Sayid Muhammad Anuar Bin Sayid Mustaffa
+11. Tajul Azhar bin Mohd Tajul Ariffin
+12. Mohd Jailani bin Mt. Said
 
 
 ---
