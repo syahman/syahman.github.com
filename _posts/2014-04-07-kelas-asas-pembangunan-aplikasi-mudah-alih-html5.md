@@ -67,13 +67,20 @@ Senarai Yang Telah Mendaftar :
 10. Sayid Muhammad Anuar Bin Sayid Mustaffa
 11. Tajul Azhar bin Mohd Tajul Ariffin
 12. Mohd Jailani bin Mt. Said
+13. Fakhrul Azran Bin Nawi  
+14. Shahrizan Bin Md. Rajak  
+15. Mohd Hafeez Bin Jainabdin  
+16. Mohd Shaiful Nizam 
+
+
+
 
 
 ---
 
-Daftar Sekarang  
+Daftar Sekarang  **(Terhad 25 Peserta)**
 
-<iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 
 ---
