@@ -28,7 +28,7 @@ Kursus ini memerlukan peserta mempunyai kemahiran asas HTML5 dan javascript (jqu
 5. Notepad++ / Sublime Text Editor. Google **;-)**
 6. Pustaka handlebars.js terkini - [http://handlebarsjs.com](http://handlebarsjs.com)
 7. Ripple Emulator - [http://ripple.incubator.apache.org/#download](http://ripple.incubator.apache.org/#download)
-8. Pustaka Jquery Mobile terkini - [http://jquerymobile.com/resources/download/jquery.mobile-1.4.2.zip](http://jquerymobile.com/resources/download/jquery.mobile-1.4.2.zip)
+8. Pustaka Jquery Mobile terkini - [http://jquerymobile.com/resources/download/jquery.mobile-1.4.2.zip](http://jquerymobile.com/resources/download/jquery.mobile-1.4.2.zip) dan [http://jquery.com](http://jquery.com)
 9. Buka akaun percuma di [http://build.phonegap.com](http://build.phonegap.com)
 10. Buka akaun percuma di [http://openshift.redhat.com/app/account/new](http://openshift.redhat.com/app/account/new)
 11. Codiqa for Desktop (7 day trial) - [https://codiqa.com/desktop](https://codiqa.com/desktop)
