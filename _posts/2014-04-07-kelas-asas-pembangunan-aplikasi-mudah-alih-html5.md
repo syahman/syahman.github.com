@@ -78,7 +78,7 @@ Senarai Yang Telah Mendaftar :
 
 ---
 
-<div class="hero-unit">
+
 
 
 Harap Maaf, penyertaan telah ditutup. Mohon kepada peserta yang telah mendaftar seperti  
@@ -92,7 +92,7 @@ Bayar ke akaun Maybank PESIMA : No Akaun : 566010550855. Penyertaan anda akan di
 
 Email bukti pembayaran beserta nama kursus kepada Bendahari hairulnizam@motac.gov.my / nizam6101@gmail.com dan Salinan kepada ajk-pesima@googlegroups.com.
 
-</div>
+
 <!--
 <iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>-->
 
