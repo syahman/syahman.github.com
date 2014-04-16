@@ -78,9 +78,18 @@ Senarai Yang Telah Mendaftar :
 
 ---
 
-Daftar Sekarang  **(Terhad 25 Peserta)**
+Harap Maaf, penyertaan telah ditutup. Mohon kepada peserta yang telah mendaftar seperti  
+senarai nama di atas dapat mengesahkan penyertaan anda dengan membuat pembayaran  
+yuran sebanyak RM50 sebagaimana maklumat di bawah : 
 
-<iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Sila buat bayaran dengan memasukkan wang sejumlah RM 50 dan emel dengan menggunakan Subject "Kursus Asas Pembangunan Aplikasi Mobile/Telefon Pintar Berasaskan HTML5"  
+
+
+Bayar ke akaun Maybank PESIMA : No Akaun : 566010550855. Penyertaan anda akan diterima (book) selepas anda menjelaskan bayaran.  
+
+Email bukti pembayaran beserta nama kursus kepada Bendahari hairulnizam@motac.gov.my / nizam6101@gmail.com dan Salinan kepada ajk-pesima@googlegroups.com.
+<!--
+<iframe src="https://docs.google.com/forms/d/17LvjvBfjrWLXKuRHhFouvI0tIRjZjdh-Qutc9f0MXSs/viewform?embedded=true" width="760" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>-->
 
 
 ---
