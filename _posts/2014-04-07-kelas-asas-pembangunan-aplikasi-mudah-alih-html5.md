@@ -74,13 +74,12 @@ Senarai Yang Telah Mendaftar :
 17. AZYYATI BINTI AB LLAH
 18. muhammad shazlan dahalan
 19. Mohd Hanif Bin Ab Rahman
-<s>20. Muhammad Farouk Bin Dahalan</s>
-21. Mazidah binti mat rejab
-22. Syarul Emy Bin Abu Samah
-23. MOHD FAIZAL BIN MOHD NOR
-24. Syaiful Adli Bin Dollah
-25. Mohd Yusof Bin Abu Samah
-26. Khairul Nizam bin Talkili
+20. Mazidah binti mat rejab
+21. Syarul Emy Bin Abu Samah
+22. MOHD FAIZAL BIN MOHD NOR
+23. Syaiful Adli Bin Dollah
+24. Mohd Yusof Bin Abu Samah
+25. Khairul Nizam bin Talkili
 
 
 
