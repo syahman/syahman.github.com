@@ -74,7 +74,7 @@ Senarai Yang Telah Mendaftar :
 17. AZYYATI BINTI AB LLAH
 18. muhammad shazlan dahalan
 19. Mohd Hanif Bin Ab Rahman
-20. Muhammad Farouk Bin Dahalan
+<s>20. Muhammad Farouk Bin Dahalan</s>
 21. Mazidah binti mat rejab
 22. Syarul Emy Bin Abu Samah
 23. MOHD FAIZAL BIN MOHD NOR
@@ -115,6 +115,6 @@ Email bukti pembayaran beserta nama kursus kepada Bendahari **hairulnizam@motac.
 
 1. [30 Cheatsheets And Infographics For Mobile App Developer](http://www.hongkiat.com/blog/cheatsheet-app-developers-designers/)  
 2. [The Rock N Coder, Mobile & Mobile Web Development Tips,Tricks,Reviews](http://therockncoder.blogspot.com)  
-
+3. [Using Ripple to emulate Apache Cordova / Phonegap applications](http://codingsquare.blogspot.com/2014/01/using-ripple-to-emulate-apache-cordova.html)
 
 
