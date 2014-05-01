@@ -14,6 +14,8 @@ Platform AppGyver menyediakan peralatan pembangunan bagi pembangunan aplikasi, t
 AppGyver Prototyper untuk aplikasi prototaip, dan AppGyver Steroid untuk pembangunan aplikasi menggunakan CLI,  
 lebih kurang seperti Phonegap CLI atau Cordova CLI.  
 
+<!-- more -->
+
 AppGyver Prototyper menjadikan lebih mudah untuk menjadikan imej mockup ke dalam prototaip aplikasi mudah alih dalam beberapa minit. Integrasi dengan Balsamiq Mockup.
 
 AppGyver Steroid membolehkan untuk membangunkan aplikasi mudah alih yang berkualiti native dengan teknologi HTML5.  
