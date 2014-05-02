@@ -34,7 +34,7 @@ menjimatkan masa dan usaha yang biasanya mengambil masa yang lama untuk melakuka
 
 <img src="{{ASSET_PATH}}/images/1codiqa.png" align="left"/>  
 
-<img src="{{ASSET_PATH}}/images/2codiga.png" align="left"/>  
+<img src="{{ASSET_PATH}}/images/2codiqa.png" align="left"/>  
 
 <img src="{{ASSET_PATH}}/images/3codiqa.png" align="left"/>
 
