@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lagi Senang! Drag & Drop GUI Untuk Membina Laman Web/Mudah Alih HTML5"
+title: "Lagi Senang! Drag & Drop GUI Untuk Membina Laman Web,Aplikasi Mudah Alih HTML5"
 description: ""
 category: 
 tags: []
