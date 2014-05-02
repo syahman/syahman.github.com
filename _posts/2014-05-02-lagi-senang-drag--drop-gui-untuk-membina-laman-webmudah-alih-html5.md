@@ -27,7 +27,7 @@ Saya akan beritahu alatan mudah (GUI) untuk anda cuba, dengan ini mungkin lebih 
 aplikasi web atau aplikasi mudah alih.
 
 Codiqa [http://www.codiqa.com](http://www.codiqa.com)
-
+---
 Aplikasi ini dipanggil Codiqa, adalah alat drag & drop untuk mencipta GUI  untuk mewujudkan laman web mudah alih  
 dan aplikasi dengan jQuery Mobile. Codiqa membolehkan kita mengeksport kod HTML5 yang sedia untuk digunakan,  
 menjimatkan masa dan usaha yang biasanya mengambil masa yang lama untuk melakukannya dengan tangan (coding satu per satu ). Versi desktop harganya ~RM270++. Versi cloud boleh merujuk kepada harga dilaman web mereka. 
