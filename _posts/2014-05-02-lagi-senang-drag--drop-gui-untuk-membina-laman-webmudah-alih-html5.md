@@ -14,6 +14,8 @@ produktif. Semasa saya belajar dahulu, pensyarah tolak markah sebab rekabentuk G
 Java Swing menggunakan GUI, awak kena belajar menggunakan coding. Tak larat ambe!.  
 Tetapi, dengan GUI yang boleh show source code, saya juga belajar dengan cepat coding yang terlibat.  
 
+<!-- more -->
+
 Begitu juga apabila kita membangunkan aplikasi mudah alih mahupun laman web, dengan masa
 yang singkat untuk menyiapkannya, apakah larat kita nak coding satu per satu ?  Apabila 
 memberikan ceramah mengenai pembangunan aplikasi mudah alih, ramai yang merasakan proses untuk  
