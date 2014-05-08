@@ -2,8 +2,8 @@
 layout: post
 title: "smcFanControl penyejuk CPU MBP"
 description: ""
-category: 
-tags: []
+category: osx
+tags: [tips]
 ---
 {% include JB/setup %}
 
@@ -21,9 +21,9 @@ Melainkan anda berada dalam bilik berhawa dingin 24jam, tetapi bil elektrik pula
 
 
 <img src="{{ASSET_PATH}}/images/smcfanb4.png" align="left"/>  
-sebelum  
-<img src="{{ASSET_PATH}}/images/smcfanafter.png" align="left"/> 
-selepas
+sebelum  <br/>
+<img src="{{ASSET_PATH}}/images/smcfanafter.png" align="left"/>  
+ selepas
 
 
 
