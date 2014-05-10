@@ -2,8 +2,8 @@
 layout: post
 title: "Asas Cloud Hosting Redhat Openshift"
 description: ""
-category: 
-tags: []
+category: development
+tags: [cloud,openshift]
 ---
 {% include JB/setup %}
 
