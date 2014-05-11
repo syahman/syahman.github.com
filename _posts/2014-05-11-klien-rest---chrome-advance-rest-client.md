@@ -20,7 +20,8 @@ Server menggunakan PHP SLIM Framework.
 <img src="{{ASSET_PATH}}/images/carc1.png" align="left"/>  
 
 <img src="{{ASSET_PATH}}/images/carc2.png" align="left"/>
-<br/><br/>
+
+
+---
 
 **To do :** Screencast bagaimana menguji REST API. 
-
