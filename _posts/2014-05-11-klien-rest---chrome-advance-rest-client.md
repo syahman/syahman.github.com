@@ -17,11 +17,12 @@ dengan Client dari Mobile Apps, Web dll. Ia menyediakan banyak pilihan seperti m
 
 Server menggunakan PHP SLIM Framework.  
 
+---
+
+**To do :** Screencast bagaimana menguji REST API. 
+
 <img src="{{ASSET_PATH}}/images/carc1.png" align="left"/>  
 
 <img src="{{ASSET_PATH}}/images/carc2.png" align="left"/>
 
 
----
-
-**To do :** Screencast bagaimana menguji REST API. 
