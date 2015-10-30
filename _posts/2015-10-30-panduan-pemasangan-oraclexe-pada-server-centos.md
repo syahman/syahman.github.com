@@ -36,7 +36,7 @@ Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih
 
     unzip oracle-xe-11.2.0-1.0.x86_64.rpm.zip
 
-Output : 
+**Output**
 
     creating: Disk1/
     creating: Disk1/upgrade/
@@ -45,12 +45,12 @@ Output :
     inflating: Disk1/response/xe.rsp   
     inflating: Disk1/oracle-xe-11.2.0-1.0.x86_64.rpm 
 
-guna akaun root, dan tukar direktori kepada Disk1
+**Guna akaun root, dan tukar direktori kepada Disk1**
 
     cd Disk1
     su
 
-guna arahan rpm untuk pasang 
+**Guna arahan rpm untuk pasang** 
 
 
     rpm -ivh oracle-xe-11.2.0-1.0.x86_64.rpm
