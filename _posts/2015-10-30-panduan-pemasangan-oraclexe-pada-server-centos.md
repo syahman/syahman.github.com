@@ -26,7 +26,7 @@ URL untuk muat turun (perlu daftar akaun dulu dengan ORACLE).
 
 Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih dahulu.
 
-```shell
+```
 
 cd $HOME/Downloads
 ls -l
