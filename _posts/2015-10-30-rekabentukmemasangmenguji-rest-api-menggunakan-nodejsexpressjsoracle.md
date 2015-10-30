@@ -10,10 +10,10 @@ tags: [rest,hybrid,oracle,nodejs,expressjs]
 **Pengenalan**
 
 Tutorial pada kali ini membangunkan POC RESTfull API untuk digunakan pada aplikasi mudah alih atau sebarang aplikasi yang menggunapakai
-kaedah API (**A**plication **P**rogramming **I**nterface)
+kaedah API (**A**pplication **P**rogramming **I**nterface)
 
 API ini penting untuk integrasi data pada aplikasi mudah alih. Selain memudahkan capaian data, perkongsian data menggunakan JSON dilihat
-tidaklah rumit berbanding XML. Kaedah **web services** ini telah lama diaplikasikan dalam integrasi antara aplikasi,platform seperti SOAP protokol.
+tidaklah rumit berbanding XML. Kaedah **web services** ini telah lama diimplementasi dalam integrasi antara aplikasi/sistem,platform seperti SOAP protokol.
 
 Keperluan bisnes dan integrasi data pada platform mudah alih merancakkan lagi penggunaan API. Selain data mudah dikongsi, ia juga mampu melindungi
 data sulit sekiranya menggunakan kaedah dan rekabentuk yang mengambilkira aspek keselamatan data. 
