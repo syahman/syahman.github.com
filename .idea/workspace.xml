@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" afterPath="$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" afterPath="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30394432">
-              <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+            <state vertical-scroll-proportion="-8.137931">
+              <caret line="103" column="40" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -65,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.586207">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.6960557">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -152,8 +150,8 @@
         <option value="$PROJECT_DIR$/_posts/2014-05-11-klien-rest---chrome-advance-rest-client.md" />
         <option value="$PROJECT_DIR$/_posts/2015-10-09-33-jam-hackaton.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" />
         <option value="$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" />
       </list>
     </option>
   </component>
@@ -589,10 +587,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.586207">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state vertical-scroll-proportion="-8.137931">
+          <caret line="103" column="40" selection-start-line="103" selection-start-column="40" selection-end-line="103" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -600,10 +598,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30394432">
-          <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.6960557">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>
