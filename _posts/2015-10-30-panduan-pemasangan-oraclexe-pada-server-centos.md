@@ -68,7 +68,7 @@ Selepas selesai rpm install, jawab soalan2 berikut :
     1.the APEX http port (8080 by default)
     2.the database (TNS) listener port (1521 by default)
     3.A single password to be assigned to the database SYS and SYSTEM users
-    whether you want the database to start automatically when the system starts (Yes by default)
+    4.whether you want the database to start automatically when the system starts (Yes by default)
     Unless you have other software, or Oracle Instances, running elsewhere, the defaults should be fine.
 
 **Arahan initial setup oracle XE**
