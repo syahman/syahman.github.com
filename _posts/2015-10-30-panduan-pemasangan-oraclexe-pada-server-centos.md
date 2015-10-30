@@ -61,6 +61,48 @@ Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih
     You must run '/etc/init.d/oracle-xe configure' as the root user to configure the database.
     
     
+**Konfigurasi Pangkala Data**    
+
+Configuring XE
+
+The configuration will be prompt you for
+
+    1.the APEX http port (8080 by default)
+    2.the database (TNS) listener port (1521 by default)
+    3.A single password to be assigned to the database SYS and SYSTEM users
+    whether you want the database to start automatically when the system starts (Yes by default)
+    Unless you have other software, or Oracle Instances, running elsewhere, the defaults should be fine.
+
+**Arahan initial setup oracle XE**
+
+
+    /etc/init.d/oracle-xe configure
+
+Output seperti di bawah : 
+  
+    Oracle Database 11g Express Edition Configuration
+    -------------------------------------------------
+    This will configure on-boot properties of Oracle Database 11g Express 
+    Edition.  The following questions will determine whether the database should 
+    be starting upon system boot, the ports it will use, and the passwords that 
+    will be used for database accounts.  Press <Enter> to accept the defaults. 
+    Ctrl-C will abort.
     
+    Specify the HTTP port that will be used for Oracle Application Express [8080]:8081
+    
+    Specify a port that will be used for the database listener [1521]:1525
+ 
+    Specify a password to be used for database accounts.  Note that the same
+    password will be used for SYS and SYSTEM.  Oracle recommends the use of 
+    different passwords for each database account.  This can be done after 
+    initial configuration:
+    Confirm the password:
+ 
+    Do you want Oracle Database 11g Express Edition to be started on boot (y/n) [y]:y
+ 
+    Starting Oracle Net Listener...Done
+    Configuring database...Done
+    Starting Oracle Database 11g Express Edition instance...Done
+    Installation completed successfully.
 
 
