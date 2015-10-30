@@ -3,7 +3,7 @@ layout: post
 title: "Panduan Pemasangan Oracle XE 11g Pada Server CentOS 7"
 description: ""
 category: 
-tags: []
+tags: [oracle,centos]
 ---
 {% include JB/setup %}
 
@@ -15,6 +15,8 @@ merujuk Google untuk pemasangan Oracle XE 11g pada distribution LINUX yang lain 
 Tutorial ini hanya menggunakan contoh pemasangan pada Centos 7.
 
 **Muat Turun Oracle XE 11g 64bit**
+
+
 
 
 
