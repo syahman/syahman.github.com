@@ -22,7 +22,7 @@ data sulit sekiranya menggunakan kaedah dan rekabentuk yang mengambilkira aspek 
 
 Ini merupakan lakaran awal aplikasi Buku555 (saya jadikan contoh untuk kelas/latihan). 
 
-<img src="{{ASSET_PATH}}/images/b555.png" align="left"/> 
+<img src="{{ASSET_PATH}}/images/b555.png"/> 
 
 
 
