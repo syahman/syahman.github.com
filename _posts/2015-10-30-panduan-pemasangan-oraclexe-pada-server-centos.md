@@ -26,9 +26,8 @@ URL untuk muat turun (perlu daftar akaun dulu dengan ORACLE).
 
 Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih dahulu.
 
-```bash
-cd $HOME/Downloads
-ls -l
--rwxrwx---. 1 mike mike 315891481 Dec 16 20:21 oracle-xe-11.2.0-1.0.x86_64.rpm.zip
-```
+    cd $HOME/Downloads
+    ls -l
+    -rwxrwx---. 1 shmn shmn 3234191481 Oct 30 20:21 oracle-xe-11.2.0-1.0.x86_64.rpm.zip
+
 
