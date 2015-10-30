@@ -16,7 +16,22 @@ Tutorial ini hanya menggunakan contoh pemasangan pada Centos 7.
 
 **Muat Turun Oracle XE 11g 64bit**
 
+URL untuk muat turun (perlu daftar akaun dulu dengan ORACLE). 
+[http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html)
+
+**Peringantan** XE 11g hanya ada versi 64bit untuk LINUX. 
 
 
+**Pemasangan Oracle XE 11g**
 
+Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih dahulu.
+
+```shell
+
+cd $HOME/Downloads
+ls -l
+-rwxrwx---. 1 mike mike 315891481 Dec 16 20:21 oracle-xe-11.2.0-1.0.x86_64.rpm.zip
+
+
+```
 
