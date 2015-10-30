@@ -63,9 +63,7 @@ Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih
     
 **Konfigurasi Pangkala Data**    
 
-Configuring XE
-
-The configuration will be prompt you for
+Selepas selesai rpm install, jawab soalan2 berikut : 
 
     1.the APEX http port (8080 by default)
     2.the database (TNS) listener port (1521 by default)
