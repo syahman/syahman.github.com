@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" afterPath="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,8 +67,8 @@
       <file leaf-file-name="2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6960557">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.31322506">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -600,8 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6960557">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.31322506">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
           <folding />
         </state>
       </provider>

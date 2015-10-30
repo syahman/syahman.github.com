@@ -10,7 +10,7 @@ tags: [rest,hybrid,oracle,nodejs,expressjs]
 **Pengenalan**
 
 Tutorial pada kali ini membangunkan POC RESTfull API untuk digunakan pada aplikasi mudah alih atau sebarang aplikasi yang menggunapakai
-kaedah API (**A**Plication **P**rogramming **I**nterface)
+kaedah API (**A**plication **P**rogramming **I**nterface)
 
 API ini penting untuk integrasi data pada aplikasi mudah alih. Selain memudahkan capaian data, perkongsian data menggunakan JSON dilihat
 tidaklah rumit berbanding XML. Kaedah **web services** ini telah lama diaplikasikan dalam integrasi antara aplikasi,platform seperti SOAP protokol.
@@ -19,6 +19,10 @@ Keperluan bisnes dan integrasi data pada platform mudah alih merancakkan lagi pe
 data sulit sekiranya menggunakan kaedah dan rekabentuk yang mengambilkira aspek keselamatan data. 
 
 **Skema Data Contoh (Buku555)**
+
+Ini merupakan lakaran awal aplikasi Buku555 (saya jadikan contoh untuk kelas/latihan). 
+
+<img src="{{ASSET_PATH}}/images/b555.png" align="left"/> 
 
 **Pemasangan NodeJS**
 
