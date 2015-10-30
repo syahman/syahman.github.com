@@ -104,3 +104,7 @@ Output seperti di bawah :
     Installation completed successfully.
 
 **Tahniah ! Pemasangan telah selesai. Reboot server anda ..**
+
+YOUTUBE : Screencast Pemasangan OracleXE 11g Pada Centos 7
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/HCAYIf51bfU" frameborder="0" allowfullscreen></iframe>
