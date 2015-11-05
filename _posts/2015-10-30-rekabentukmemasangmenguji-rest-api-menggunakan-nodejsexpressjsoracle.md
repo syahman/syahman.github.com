@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rekabentuk,memasang,menguji REST API menggunakan NodeJS+ExpressJS+Oracle"
+title: "Rekabentuk,memasang,menguji REST API menggunakan NodeJS+ExpressJS+Oracle DB"
 description: ""
 category: 
 tags: [rest,hybrid,oracle,nodejs,expressjs]
