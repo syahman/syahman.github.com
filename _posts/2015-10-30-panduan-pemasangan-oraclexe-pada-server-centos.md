@@ -86,9 +86,9 @@ Output seperti di bawah :
     will be used for database accounts.  Press <Enter> to accept the defaults. 
     Ctrl-C will abort.
     
-    Specify the HTTP port that will be used for Oracle Application Express [8080]:8081
+    Specify the HTTP port that will be used for Oracle Application Express [8080]:8080
     
-    Specify a port that will be used for the database listener [1521]:1525
+    Specify a port that will be used for the database listener [1521]:1521
  
     Specify a password to be used for database accounts.  Note that the same
     password will be used for SYS and SYSTEM.  Oracle recommends the use of 
