@@ -80,16 +80,20 @@ diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint
 
 **5.0  Rekabentuk Struktur Endpoint URL Buku555**
 
-|#| Endpoint URL                | Kaedah    |Parameter                                                  |
-|-|-----------------------------|-----------|-----------------------------------------------------------|
-|1| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|2| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|3| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|4| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|5| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|6| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|7| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|8| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
-|9| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+Rekabentuk API untuk aplikasi Buku555 adalah seperti jadual di bawah. Setiap endpoint URL mempunyai
+fungsi khusus yang berkaitan dengan CRUD. 
+
+|# | Endpoint URL                | Kaedah    |Parameter                | Keterangan                      |
+|--|-----------------------------|-----------|-----------------------------------------------------------|
+|1 | /users  	                 | POST	     | tba| rekod baru users |
+|2 | /users/:userid              | GET	     | tba| baca rekod users |
+|3 | /users/:userid	             | PUT	     | tba| update rekod users |
+|4 | /users/:userid              | DELETE	 | tba| padam rekod users |
+|5 | /trxs       	             | POST	     | tba| transaksi baru |
+|6 | /trxs/:userid	             | GET	     | tba| baca transaksi/userid |
+|7 | /trxs/:userid	             | PUT	     | tba| update transaksi/userid |
+|8 | /trxs/:trxid/:userid        | DELETE	 | tba| pada rekod transaksi |
+|9 | /about	                     | GET	     | tba| kredit aplikasi |
+|10| /version                    | GET       | tba| versi api |
 
 ----------------------------------------------------------------
