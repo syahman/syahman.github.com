@@ -61,7 +61,7 @@ Proses pemasangan adalah mudah. Fail yang dimuatturun hendaklah extract terlebih
     You must run '/etc/init.d/oracle-xe configure' as the root user to configure the database.
     
     
-**Konfigurasi Pangkala Data**    
+**Konfigurasi Pangkalan Data**    
 
 Selepas selesai rpm install, jawab soalan2 berikut : 
 
