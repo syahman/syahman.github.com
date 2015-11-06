@@ -161,6 +161,24 @@ Masih lagi berada dalam direktori **buku555**, taip arahan berikut :
     express
     [root@localhost node_modules]#
     
+**Pemasangan Modul body-parser**
+
+    [root@localhost buku555]# npm install body-parser -save
+    npm WARN package.json buku555@1.0.0 No repository field.
+    npm WARN package.json buku555@1.0.0 No README data
+    body-parser@1.14.1 node_modules/body-parser
+    ├── bytes@2.1.0
+    ├── content-type@1.0.1
+    ├── depd@1.1.0
+    ├── qs@5.1.0
+    ├── iconv-lite@0.4.12
+    ├── on-finished@2.3.0 (ee-first@1.1.1)
+    ├── raw-body@2.1.4 (unpipe@1.0.0)
+    ├── http-errors@1.3.1 (inherits@2.0.1, statuses@1.2.1)
+    ├── debug@2.2.0 (ms@0.7.1)
+    └── type-is@1.6.9 (media-typer@0.3.0, mime-types@2.1.7)
+    [root@localhost buku555]#
+    
 
 **Pemasangan Driver Native NodeJS-ORACLE**
 
