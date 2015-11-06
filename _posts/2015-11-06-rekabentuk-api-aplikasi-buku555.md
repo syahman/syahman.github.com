@@ -22,6 +22,8 @@ Maksud REST adalah Representational State Transfer.
 Implementasi REST lebih mudah berbanding kaedah lain seperti SOAP,CORBA,WSDL dll..
 Ia hanya menggunakan protokol HTTP.
 
+------------------------------------------------
+
 **2.0   Kaedah HTTP**
 
 Untuk merekabentuk API yang berguna, API hendaklah menyokong kaedah HTTP seperti
