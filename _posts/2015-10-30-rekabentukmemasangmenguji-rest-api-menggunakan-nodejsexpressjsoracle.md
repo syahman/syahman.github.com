@@ -23,10 +23,10 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
 
 **Skema Data Contoh (Buku555)**
 
-<img src="{{ASSET_PATH}}/images/b555.png" style="float:left;"/> 
+<img src="{{ASSET_PATH}}/images/b555.png" /> 
 <span style="display:block;">Ini merupakan lakaran awal aplikasi Buku555 (saya jadikan contoh untuk kelas/latihan). </span>
 
-<img src="{{ASSET_PATH}}/images/skema555.png" style="float:left;"/> 
+<img src="{{ASSET_PATH}}/images/skema555.png" /> 
 <span style="display:block;">ERD ringkas pangkalan data. Boleh rujuk lampiran skema_design.sql dalam github projek Buku555.</span>
 
 
