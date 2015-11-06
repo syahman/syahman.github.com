@@ -163,6 +163,8 @@ Masih lagi berada dalam direktori **buku555**, taip arahan berikut :
     
 **Pemasangan Modul body-parser**
 
+Masih lagi berada dalam direktori **buku555**, taip arahan berikut : 
+
     [root@localhost buku555]# npm install body-parser -save
     npm WARN package.json buku555@1.0.0 No repository field.
     npm WARN package.json buku555@1.0.0 No README data
@@ -182,7 +184,45 @@ Masih lagi berada dalam direktori **buku555**, taip arahan berikut :
 
 **Pemasangan Driver Native NodeJS-ORACLE**
 
+Masih lagi berada dalam direktori **buku555**, taip arahan berikut : 
+
+    [root@localhost buku555]# npm install oracledb -save
+    npm WARN package.json buku555@1.0.0 No repository field.
+    npm WARN package.json buku555@1.0.0 No README data
+    -
+    > oracledb@1.3.0 install /home/shmn/buku555/node_modules/oracledb
+    > node-gyp rebuild
+    
+    make: Entering directory `/home/shmn/buku555/node_modules/oracledb/build'
+      CXX(target) Release/obj.target/oracledb/src/njs/src/njsOracle.o
+      CXX(target) Release/obj.target/oracledb/src/njs/src/njsPool.o
+      CXX(target) Release/obj.target/oracledb/src/njs/src/njsConnection.o
+      CXX(target) Release/obj.target/oracledb/src/njs/src/njsResultSet.o
+      CXX(target) Release/obj.target/oracledb/src/njs/src/njsMessages.o
+      CXX(target) Release/obj.target/oracledb/src/njs/src/njsIntLob.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiEnv.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiEnvImpl.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiException.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiExceptionImpl.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiConnImpl.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiDateTimeArrayImpl.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiPoolImpl.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiStmtImpl.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiUtils.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiLob.o
+      CXX(target) Release/obj.target/oracledb/src/dpi/src/dpiCommon.o
+      SOLINK_MODULE(target) Release/obj.target/oracledb.node
+      COPY Release/oracledb.node
+    make: Leaving directory `/home/shmn/buku555/node_modules/oracledb/build'
+    oracledb@1.3.0 node_modules/oracledb
+    └── nan@1.9.0
+    [root@localhost buku555]#
+    
+
+    
 **Rekabentuk API**
+
+
 
 **Pengujian API menggunakan klien REST :: POSTMAN (chrome packaged app)**
 
