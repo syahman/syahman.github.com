@@ -26,12 +26,12 @@ Ia hanya menggunakan protokol HTTP.
 
 A well-designed RESTful API should support most commonly used HTTP methods (GET, POST, PUT, PATCH and DELETE). There are other HTTP methods like OPTIONS, HEAD but these are used most often. Each method should be used depending on the type of operation you are performing.
 
-| GET    | To fetch a resource         |
+| Method | Desc                        |
 |--------|-----------------------------|
+| GET    | To fetch a resource         |
 | POST   | To create a new resource    |
-| PUT    | To update existing resource |
+| PATCH  | To update existing resource |
 | DELETE | To delete a resource        |
-
 
 
 
