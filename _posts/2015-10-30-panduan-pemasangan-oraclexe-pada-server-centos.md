@@ -116,7 +116,7 @@ Log masuk sebagai user oracle. Boleh guna **su- oracle**
 Buka sebarang editor (nano,vi ..) untuk cipta fail .bash_profile sekiranya belum wujud.
 Aturan .bash_profile
 
-<img src="{{ASSET_PATH}}/images/ora1nlslang1.png" align="left"/>
+<img src="{{ASSET_PATH}}/images/ora1nlslangterm.png" align="left"/>
 
 <img src="{{ASSET_PATH}}/images/ora1nlslang.png" align="left"/>
 Kemaskini fail nls_lang.sh pada baris terakhir. masukkan "" untuk 
@@ -127,13 +127,6 @@ Kemaskini fail nls_lang.sh pada baris terakhir. masukkan "" untuk
 Uji capaian dengan menggunakan **sqlplus**
 
 <img src="{{ASSET_PATH}}/images/ora1sqlplus.png" align="left"/>
-
-
-  
-  
- 
- 
- 
 
 
 
