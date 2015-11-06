@@ -54,6 +54,13 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
     ); 
 
 
+    CREATE INDEX b_users_idx
+      ON b_users (userid,emel);
+    
+    CREATE INDEX b_trx_idx
+      ON b_trx (trxid,userid);
+      
+
 **Pemasangan NodeJS**
 
 sdfsdfsdfsdf
