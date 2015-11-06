@@ -29,7 +29,7 @@ A well-designed RESTful API should support most commonly used HTTP methods (GET,
 | GET    | To fetch a resource         |
 |--------|-----------------------------|
 | POST   | To create a new resource    |
-| PATCH  | To update existing resource |
+| PUT    | To update existing resource |
 | DELETE | To delete a resource        |
 
 
