@@ -103,6 +103,40 @@ Output seperti di bawah :
     Starting Oracle Database 11g Express Edition instance...Done
     Installation completed successfully.
 
+
+
+**Konfigurasi Environment Oracle (User Oracle)**
+
+
+
+<img src="{{ASSET_PATH}}/images/ora1vibashprofile.png" align="left"/> 
+Log masuk sebagai user oracle. Boleh guna **su- oracle**
+
+<img src="{{ASSET_PATH}}/images/ora1oraenv.png" align="left"/> 
+Buka sebarang editor (nano,vi ..) untuk cipta fail .bash_profile sekiranya belum wujud.
+Aturan .bash_profile
+
+<img src="{{ASSET_PATH}}/images/ora1nlslang1.png" align="left"/>
+
+<img src="{{ASSET_PATH}}/images/ora1nlslang.png" align="left"/>
+Kemaskini fail nls_lang.sh pada baris terakhir. masukkan "" untuk 
+
+    NLS_LANG="${nlslang}.${charset}"
+    echo $NLS_LANG
+  
+Uji capaian dengan menggunakan **sqlplus**
+
+<img src="{{ASSET_PATH}}/images/ora1sqlplus.png" align="left"/>
+
+
+  
+  
+ 
+ 
+ 
+
+
+
 **Tahniah ! Pemasangan telah selesai. Reboot server anda ..**
 
 YOUTUBE : Screencast Pemasangan OracleXE 11g Pada Centos 7
