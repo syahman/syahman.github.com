@@ -118,6 +118,8 @@ Aturan .bash_profile
 
 <img src="{{ASSET_PATH}}/images/ora1nlslangterm.png" align="left"/>
 
+    vi .bash_profile
+
 <img src="{{ASSET_PATH}}/images/ora1nlslang.png" align="left"/>
 Kemaskini fail nls_lang.sh pada baris terakhir. masukkan "" untuk 
 
