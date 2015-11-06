@@ -222,7 +222,9 @@ Masih lagi berada dalam direktori **buku555**, taip arahan berikut :
     
 **Rekabentuk API**
 
-Bab ini agak panjang, saya pisahkan menjadi satu bab khusus. Semoga bermanfaat. 
+Bab ini agak panjang, saya pisahkan menjadi satu bab khusus.
+[http://www.shmn.my/2015/11/06/rekabentuk-api-aplikasi-buku555/](http://www.shmn.my/2015/11/06/rekabentuk-api-aplikasi-buku555/)
+Semoga bermanfaat. 
 
 
 **Pengujian API menggunakan klien REST :: POSTMAN (chrome packaged app)**
