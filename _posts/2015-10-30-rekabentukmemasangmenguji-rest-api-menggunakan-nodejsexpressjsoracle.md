@@ -18,6 +18,9 @@ tidaklah rumit berbanding XML. Kaedah **web services** ini telah lama diimplemen
 Keperluan bisnes dan integrasi data pada platform mudah alih merancakkan lagi penggunaan API. Selain data mudah dikongsi, ia juga mampu melindungi
 data sulit sekiranya menggunakan kaedah dan rekabentuk yang mengambilkira aspek keselamatan data. 
 
+Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE centos 7 di sini :
+[http://www.shmn.my/2015/10/30/panduan-pemasangan-oraclexe-pada-server-centos/](http://www.shmn.my/2015/10/30/panduan-pemasangan-oraclexe-pada-server-centos/)
+
 **Skema Data Contoh (Buku555)**
 
 Ini merupakan lakaran awal aplikasi Buku555 (saya jadikan contoh untuk kelas/latihan). 
