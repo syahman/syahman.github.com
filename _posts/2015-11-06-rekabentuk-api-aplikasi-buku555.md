@@ -39,7 +39,9 @@ Cuba anda hubung kait kaedah di bawah ini dengan CRUD.
 | DELETE | To delete a resource        |
 
 
+
 **3.0	HTTP Status Code**
+
 
 | Kod | Status                |
 |-----|-----------------------|
@@ -52,6 +54,8 @@ Cuba anda hubung kait kaedah di bawah ini dengan CRUD.
 | 404 | Not Found             |
 | 422 | Unprocessable Entity  |
 | 500 | Internal Server Error |
+
+
 
 Setiap request akan ada reply. Jadual di atas adalah contoh kod status HTTP. Anda akan lebih memahami
 kod ini apabila membangunkan sendiri API. 
