@@ -122,7 +122,7 @@ Aturan .bash_profile
 <img src="{{ASSET_PATH}}/images/ora1nlslangterm.png" align="left"/>
 Skrin terminal anda .. 
 
-    vi .bash_profile
+    vi .nls_lang.sh
 
 
 
