@@ -226,13 +226,20 @@ Bab ini agak panjang, saya pisahkan menjadi satu bab khusus.
 [http://www.shmn.my/2015/11/06/rekabentuk-api-aplikasi-buku555/](http://www.shmn.my/2015/11/06/rekabentuk-api-aplikasi-buku555/)
 Semoga bermanfaat. 
 
+**Mari Study Code (Mengikut Fungsi Endpoint URL)**
+
+TODO : Bab ini agak panjang juga , saya pisahkan menjadi satu bab khusus. 
 
 **Pengujian API menggunakan klien REST :: POSTMAN (chrome packaged app)**
 
+TODO : 
+
 **Aplikasi pada platform mudah alih - hybrid phonegap/cordova**
+
+TODO : 
 
 **Aplikasi pada platform mudah alih - native android**
 
-will update later..
+TODO : 
 
 
