@@ -82,6 +82,11 @@ diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint
 
 **5.0  Rekabentuk Struktur Endpoint URL Buku555**
 
+
+TODO : Masukkan gambarajah arkitektur ..  
+
+
+
 Rekabentuk API untuk aplikasi Buku555 adalah seperti jadual di bawah. Setiap endpoint URL mempunyai
 fungsi khusus yang berkaitan dengan CRUD. 
 
@@ -95,8 +100,12 @@ fungsi khusus yang berkaitan dengan CRUD.
 |5 | /trxs       	             | POST	     | tba| transaksi baru |
 |6 | /trxs/:userid	             | GET	     | tba| baca transaksi/userid |
 |7 | /trxs/:userid	             | PUT	     | tba| update transaksi/userid |
-|8 | /trxs/:trxid/:userid        | DELETE	 | tba| pada rekod transaksi |
+|8 | /trxs/:trxid/:userid        | DELETE	 | tba| padam rekod transaksi |
 |9 | /about	                     | GET	     | tba| kredit aplikasi |
 |10| /version                    | GET       | tba| versi api |
 
 ----------------------------------------------------------------
+
+**6.0 Pengujian API menggunakan aplikasi chrome POSTMAN**
+
+
