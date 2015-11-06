@@ -61,7 +61,7 @@ kod ini apabila membangunkan sendiri API.
 
 ------------------------------------------------
 
-**4.0	Struktur URL**
+**4.0	Endpoint URL**
 
 Endpoint URL dalam rekabentuk API hendaklah mudah difahami dan berfungsi dengan baik. 
 Setiap URL untuk setiap fungsi aplikasi hendaklah dikenalpasti. Penggunaan API key diperlukan
@@ -69,7 +69,7 @@ untuk akses data sensitif dan disaran menggunakan secure HTTP (https) untuk meng
 orang tengah (man-in-the-middle attack). Rujuk lebih lanjut OWASP bab API, web services. API key 
 diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint URL : 
 
-    GET http://buku555.abc/users/1
+    GET http://buku555.abc/users/:1
     guna method GET untuk dapatkan rekod users yang mempunyai userid=1 (contoh)
     
     POST http://buku555.abc/users/
@@ -78,4 +78,18 @@ diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint
 --------------------------------------------------
 
 
+**5.0  Rekabentuk Struktur Endpoint URL Buku555**
 
+|#| Endpoint URL                | Kaedah    |Parameter                                                  |
+|-|-----------------------------|-----------|-----------------------------------------------------------|
+|1| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|2| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|3| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|4| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|5| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|6| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|7| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|8| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+|9| /register	                | POST	    |dfgdgd dfgd dfg dfg dfg dg|
+
+----------------------------------------------------------------
