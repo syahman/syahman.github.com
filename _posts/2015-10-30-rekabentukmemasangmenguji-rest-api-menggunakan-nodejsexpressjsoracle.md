@@ -65,7 +65,7 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
 
 Saya menggunakan versi nodejs 0.12.7 kerana versi terkini tidak dapat dikompil bersama modul nodejs oracledb.
 Rujuk pada github nodejs oracle driver [https://github.com/oracle/node-oracledb](https://github.com/oracle/node-oracledb)
-Run arahan di bawah : 
+. Run arahan di bawah : 
 
       wget https://nodejs.org/dist/v0.12.7/node-v0.12.7-linux-x64.tar.gz
       tar xzf node-v0.12.7-linux-x64.tar.gz
@@ -76,9 +76,91 @@ Run arahan di bawah :
       npm -v
     
 
+**Cipta folder projek**
+
+Katakan, anda berada dalam direktori **/home/shmn** (contoh je ni .. ) sebagaimana contoh berikut : 
+
+    [root@localhost shmn]# mkdir buku555
+    [root@localhost shmn]# cd buku555
+    [root@localhost buku555]# npm init
+    This utility will walk you through creating a package.json file.
+    It only covers the most common items, and tries to guess sensible defaults.
+    
+    See `npm help json` for definitive documentation on these fields
+    and exactly what they do.
+    
+    Use `npm install <pkg> --save` afterwards to install a package and
+    save it as a dependency in the package.json file.
+    
+    Press ^C at any time to quit.
+    name: (buku555)
+    version: (1.0.0)
+    description: aplikasi buku hutang mudah
+    entry point: (index.js)
+    test command:
+    git repository:
+    keywords:
+    author:
+    license: (ISC)
+    About to write to /home/shmn/buku555/package.json:
+    
+    {
+      "name": "buku555",
+      "version": "1.0.0",
+      "description": "aplikasi buku hutang mudah",
+      "main": "index.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "ISC"
+    }
+    
+    
+    Is this ok? (yes) yes
+    [root@localhost buku555]#
+    
+
 **Pemasangan ExpressJS**
 
-sdfsdfsdf
+Masih lagi berada dalam direktori **buku555**, taip arahan berikut : 
+
+    [root@localhost buku555]# npm install express -save
+    npm WARN package.json buku555@1.0.0 No repository field.
+    npm WARN package.json buku555@1.0.0 No README data
+    express@4.13.3 node_modules/express
+    ├── escape-html@1.0.2
+    ├── merge-descriptors@1.0.0
+    ├── array-flatten@1.1.1
+    ├── cookie@0.1.3
+    ├── utils-merge@1.0.0
+    ├── cookie-signature@1.0.6
+    ├── methods@1.1.1
+    ├── fresh@0.3.0
+    ├── range-parser@1.0.3
+    ├── vary@1.0.1
+    ├── path-to-regexp@0.1.7
+    ├── etag@1.7.0
+    ├── content-type@1.0.1
+    ├── parseurl@1.3.0
+    ├── content-disposition@0.5.0
+    ├── serve-static@1.10.0
+    ├── depd@1.0.1
+    ├── qs@4.0.0
+    ├── finalhandler@0.4.0 (unpipe@1.0.0)
+    ├── debug@2.2.0 (ms@0.7.1)
+    ├── on-finished@2.3.0 (ee-first@1.1.1)
+    ├── proxy-addr@1.0.8 (forwarded@0.1.0, ipaddr.js@1.0.1)
+    ├── accepts@1.2.13 (negotiator@0.5.3, mime-types@2.1.7)
+    ├── type-is@1.6.9 (media-typer@0.3.0, mime-types@2.1.7)
+    └── send@0.13.0 (destroy@1.0.3, statuses@1.2.1, ms@0.7.1, mime@1.3.4, http-errors@1.3.1)
+    [root@localhost buku555]# ls
+    node_modules  package.json
+    [root@localhost buku555]# cd node_modules/
+    [root@localhost node_modules]# ls
+    express
+    [root@localhost node_modules]#
+    
 
 **Pemasangan Driver Native NodeJS-ORACLE**
 
