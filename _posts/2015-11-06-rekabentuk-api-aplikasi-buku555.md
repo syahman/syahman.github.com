@@ -63,11 +63,19 @@ kod ini apabila membangunkan sendiri API.
 
 **4.0	Struktur URL**
 
-In REST design the URL endpoints should be well formed and should be easily understandable. 
-Every URL for a resource should be uniquely identified. If your API needs an API key to access, 
-the api key should be kept in HTTP headers instead of including it in URL.
-For an example:  GET http://xxxx/getladangall/appcili/770910115591/1 , 
-will submit data to server.
+Endpoint URL dalam rekabentuk API hendaklah mudah difahami dan berfungsi dengan baik. 
+Setiap URL untuk setiap fungsi aplikasi hendaklah dikenalpasti. Penggunaan API key diperlukan
+untuk akses data sensitif dan disaran menggunakan secure HTTP (https) untuk mengelakkan pencerobohan data oleh
+orang tengah (man-in-the-middle attack). Rujuk lebih lanjut OWASP bab API, web services. API key 
+diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint URL : 
+
+    GET http://buku555.abc/users/1
+    guna method GET untuk dapatkan rekod users yang mempunyai userid=1 (contoh)
+    
+    POST http://buku555.abc/users/
+    guna method POST untuk masukkan rekod users baru
+    
+--------------------------------------------------
 
 
 
