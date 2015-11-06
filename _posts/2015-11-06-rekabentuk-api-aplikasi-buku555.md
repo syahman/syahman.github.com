@@ -24,7 +24,10 @@ Ia hanya menggunakan protokol HTTP.
 
 **2.0   Kaedah HTTP**
 
-A well-designed RESTful API should support most commonly used HTTP methods (GET, POST, PUT, PATCH and DELETE). There are other HTTP methods like OPTIONS, HEAD but these are used most often. Each method should be used depending on the type of operation you are performing.
+Untuk merekabentuk API yang berguna, API hendaklah menyokong kaedah HTTP seperti
+GET,POST,PUT dan DELETE. Ada lagi kaedah HTTP lain seperti OPTIONS,PATCH,HEAD tetapi jarang
+digunakan. Setiap kaedah bergantung kepada keperluan aplikasi, sudah tentu setiap aplikasi
+perlu ada CRUD (Create,Read,Update dan Delete). 
 
 
 | Kaedah | Keterangan                  |
