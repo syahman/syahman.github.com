@@ -33,6 +33,7 @@ perlu ada CRUD (Create,Read,Update dan Delete).
 
 Cuba anda hubung kait kaedah di bawah ini dengan CRUD. 
 
+{: .table .table-striped}
 | Kaedah | Keterangan                  |
 |--------|-----------------------------|
 | GET    | To fetch a resource         |
@@ -47,6 +48,7 @@ Cuba anda hubung kait kaedah di bawah ini dengan CRUD.
 Setiap request akan ada reply. Jadual di bawah adalah contoh kod status HTTP. Anda akan lebih memahami
 kod ini apabila membangunkan sendiri API. 
 
+{: .table .table-striped}
 | Kod | Status                |
 |-----|-----------------------|
 | 200 | OK                    |
@@ -83,6 +85,7 @@ diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint
 Rekabentuk API untuk aplikasi Buku555 adalah seperti jadual di bawah. Setiap endpoint URL mempunyai
 fungsi khusus yang berkaitan dengan CRUD. 
 
+{: .table .table-striped}
 |# | Endpoint URL                | Kaedah    |Parameter                | Keterangan                      |
 |--|-----------------------------|-----------|-----------------------------------------------------------|
 |1 | /users  	                 | POST	     | tba| rekod baru users |
