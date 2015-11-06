@@ -42,6 +42,8 @@ Cuba anda hubung kait kaedah di bawah ini dengan CRUD.
 
 **3.0	HTTP Status Code**
 
+Setiap request akan ada reply. Jadual di bawah adalah contoh kod status HTTP. Anda akan lebih memahami
+kod ini apabila membangunkan sendiri API. 
 
 | Kod | Status                |
 |-----|-----------------------|
@@ -57,7 +59,13 @@ Cuba anda hubung kait kaedah di bawah ini dengan CRUD.
 
 ------------------------------------------------
 
-Setiap request akan ada reply. Jadual di atas adalah contoh kod status HTTP. Anda akan lebih memahami
-kod ini apabila membangunkan sendiri API. 
+**4.0	Struktur URL**
+
+In REST design the URL endpoints should be well formed and should be easily understandable. 
+Every URL for a resource should be uniquely identified. If your API needs an API key to access, 
+the api key should be kept in HTTP headers instead of including it in URL.
+For an example:  GET http://xxxx/getladangall/appcili/770910115591/1 , 
+will submit data to server.
+
 
 
