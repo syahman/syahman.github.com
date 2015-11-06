@@ -134,4 +134,4 @@ Uji capaian dengan menggunakan **sqlplus**
 
 YOUTUBE : Screencast Pemasangan OracleXE 11g Pada Centos 7
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/6M2mHXmuRGs" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="400" src="//www.youtube.com/embed/6M2mHXmuRGs" frameborder="0" allowfullscreen></iframe>
