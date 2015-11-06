@@ -141,6 +141,6 @@ Uji capaian dengan menggunakan **sqlplus**
 
 **Tahniah ! Pemasangan telah selesai. Reboot server anda ..**
 
-YOUTUBE : Screencast Pemasangan OracleXE 11g Pada Centos 7
+YOUTUBE : Screencast Pemasangan OracleXE 11g Pada Centos 7 (maaf,kualiti tidak memuaskan)
 
 <iframe width="600" height="400" src="//www.youtube.com/embed/6M2mHXmuRGs" frameborder="0" allowfullscreen></iframe>
