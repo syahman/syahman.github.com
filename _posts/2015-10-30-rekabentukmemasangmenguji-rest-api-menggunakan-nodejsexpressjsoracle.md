@@ -63,7 +63,18 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
 
 **Pemasangan NodeJS**
 
-sdfsdfsdfsdf
+Saya menggunakan versi nodejs 0.12.7 kerana versi terkini tidak dapat dikompil bersama modul nodejs oracledb.
+Rujuk pada github nodejs oracle driver [https://github.com/oracle/node-oracledb](https://github.com/oracle/node-oracledb)
+Run arahan di bawah : 
+
+      wget https://nodejs.org/dist/v0.12.7/node-v0.12.7-linux-x64.tar.gz
+      tar xzf node-v0.12.7-linux-x64.tar.gz
+      cd node-v0.12.7-linux-x64/
+      ls
+      for dir in bin include lib share; do cp -par ${dir}/* /usr/local/${dir}/; done
+      node -v
+      npm -v
+    
 
 **Pemasangan ExpressJS**
 
