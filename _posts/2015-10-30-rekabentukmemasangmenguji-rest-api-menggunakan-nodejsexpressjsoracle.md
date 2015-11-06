@@ -23,11 +23,14 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
 
 **Skema Data Contoh (Buku555)**
 
-<img src="{{ASSET_PATH}}/images/b555.png" align="left"/> <br/><br/>
-Ini merupakan lakaran awal aplikasi Buku555 (saya jadikan contoh untuk kelas/latihan). 
+<img src="{{ASSET_PATH}}/images/b555.png" align="left"/> 
 
-<img src="{{ASSET_PATH}}/images/skema555.png" align="left"/> <br/><br/>
-ERD ringkas pangkalan data. Boleh rujuk lampiran skema_design.sql dalam github projek Buku555.
+       Ini merupakan lakaran awal aplikasi Buku555 (saya jadikan contoh untuk kelas/latihan). 
+
+<img src="{{ASSET_PATH}}/images/skema555.png" align="left"/> 
+
+
+        ERD ringkas pangkalan data. Boleh rujuk lampiran skema_design.sql dalam github projek Buku555.
 
 
 **Pemasangan NodeJS**
