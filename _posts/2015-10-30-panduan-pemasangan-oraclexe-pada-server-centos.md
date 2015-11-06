@@ -112,13 +112,16 @@ Output seperti di bawah :
 <img src="{{ASSET_PATH}}/images/ora1vibashprofile.png" align="left"/> 
 Log masuk sebagai user oracle. Boleh guna **su- oracle**
 
+
+<img src="{{ASSET_PATH}}/images/ora1nlslangterm.png" align="left"/>
+Skrin terminal anda .. 
+
+    vi .bash_profile
+
+
 <img src="{{ASSET_PATH}}/images/ora1oraenv.png" align="left"/> 
 Buka sebarang editor (nano,vi ..) untuk cipta fail .bash_profile sekiranya belum wujud.
 Aturan .bash_profile
-
-<img src="{{ASSET_PATH}}/images/ora1nlslangterm.png" align="left"/>
-
-    vi .bash_profile
 
 <img src="{{ASSET_PATH}}/images/ora1nlslang.png" align="left"/>
 Kemaskini fail nls_lang.sh pada baris terakhir. masukkan "" untuk 
