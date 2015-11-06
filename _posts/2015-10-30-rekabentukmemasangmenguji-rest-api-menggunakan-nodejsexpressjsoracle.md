@@ -29,6 +29,30 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
 <img src="{{ASSET_PATH}}/images/skema555.png" /> 
 <span style="display:block;">ERD ringkas pangkalan data. Boleh rujuk lampiran skema_design.sql dalam github projek Buku555.</span>
 
+    CREATE TABLE b_users
+    ( userid number(10) NOT NULL,
+      token varchar2(256) NOT NULL,
+      name varchar2(256) NOT NULL,
+      emel varchar2(256) NOT NULL,
+      active number(1) NOT NULL,
+      CONSTRAINT  b_users_pk PRIMARY KEY (userid),
+      CONSTRAINT  b_users_uk UNIQUE (emel)
+    );
+    
+    
+    CREATE TABLE b_trx
+    ( trxid number(10) NOT NULL,
+      userid number(10) NOT NULL,
+      amount number(7,2) NOT NULL,
+      trxdate timestamp(6) NOT NULL,
+      item varchar(256) NOT NULL,
+      active number(1) NOT NULL,
+      CONSTRAINT b_trx_pk PRIMARY KEY (trxid),
+      CONSTRAINT b_trx_fk
+      FOREIGN KEY (userid)
+      REFERENCES b_users(userid)
+    ); 
+
 
 **Pemasangan NodeJS**
 
