@@ -60,6 +60,19 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
     CREATE INDEX b_trx_idx
       ON b_trx (trxid,userid);
       
+    CREATE SEQUENCE b_users_seq
+      MINVALUE 1
+      START WITH 1
+      INCREMENT BY 1
+      NOCACHE;
+      
+    CREATE SEQUENCE b_trx_seq
+          MINVALUE 1
+          START WITH 1
+          INCREMENT BY 1
+          NOCACHE;
+          
+      
 
 **Pemasangan NodeJS**
 
