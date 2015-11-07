@@ -32,8 +32,8 @@ yang digunakan sekarang **deprecated** atau **obsoleted**.
 
 Ada dua cara kaedah **authentication** . Samada menggunakan Cookies atau Token
 
-<img src="{{ASSET_PATH}}/images/cookies.png" align="left"/>
-**authentication** berasaskan **cookies**
+<img src="{{ASSET_PATH}}/images/cookies.png"/>
+<span style="display:block;">**authentication** berasaskan **cookies**
 
 Masalah Cookies
 
@@ -41,14 +41,16 @@ Hard to scale,
 Performance bottlenecks,
 Requires state (session) persistence,
 Troublesome Cross-origin request sharing (CORS), Vulnerable to CSRF attacks,
-„Hacky” implementations in MV*.
+„Hacky” implementations in MV*. </span>
 
 
-<img src="{{ASSET_PATH}}/images/token.png" align="left"/>
-**authentication** berasaskan **token**
+<img src="{{ASSET_PATH}}/images/token.png"/>
+<span style="display:block;">**authentication** berasaskan **token**
 
 Easier to scale,
 Stateless,
 Secure,
 Performant,
 Cross-origin request sharing (CORS),
+
+</span>
