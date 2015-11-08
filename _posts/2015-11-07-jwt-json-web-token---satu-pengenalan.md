@@ -55,9 +55,9 @@ Masalah Cookies
 <img src="{{ASSET_PATH}}/images/token.png"/>
 <span style="display:block;">**authentication** berasaskan **token**</span>
 
-Kelebihan Token
-
 -----------------------------------------------------------------
+
+Kelebihan Token
 
 1. Easier to scale
 2. Stateless
