@@ -66,7 +66,7 @@ Kelebihan Token
 5. Cross-origin request sharing (CORS)
 
 
-**3.0 Apakah JSON Web Tokens (JWT) ?**
+**3.0   Apakah JSON Web Tokens (JWT) ?**
  
 
 **JSON Web Token** adalah standard baru industri (RFC 7519 - rujuk Internet Engineering Task Force [https://tools.ietf.org/html/rfc7519](https://tools.ietf.org/html/rfc7519).
@@ -87,3 +87,20 @@ dalam URL (kaedah GET).
 
 **Tips** : Jika saiz JWT besar (sebab banyak sangat payload dimasukkan), lebih sesuai letak dalam HTTP header atau kaedah POST.
 
+**4.0   Bagaimana JWT Berfungsi**
+ 
+TODO : 
+
+**5.0   Senario 1 - Aplikasi Mudah Alih <-> Pelayan RESTfull API**
+ 
+TODO: 
+
+**6.0   Senario 2 - Sebagai Single Sign On Server Dalaman (Local SSO) ** 
+
+TODO : 
+
+**7.0   Rujukan dan Kajian Akademik**
+
+TODO : 
+ 
+1. [https://scotch.io/tutorials/the-anatomy-of-a-json-web-token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token) 
