@@ -38,7 +38,7 @@ Ia hanya menggunakan protokol HTTP.
 
 **2.0   Kaedah HTTP**
 
-Untuk merekabentuk API yang berguna, API hendaklah menyokong kaedah HTTP seperti
+Untuk merekabentuk API yang berguna, API yang dibina hendaklah menyokong kaedah HTTP seperti
 GET,POST,PUT dan DELETE. Ada lagi kaedah HTTP lain seperti OPTIONS,PATCH,HEAD tetapi jarang
 digunakan. Setiap kaedah bergantung kepada keperluan aplikasi, sudah tentu setiap aplikasi
 perlu ada CRUD (Create,Read,Update dan Delete). 
