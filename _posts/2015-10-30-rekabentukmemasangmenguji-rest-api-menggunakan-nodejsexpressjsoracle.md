@@ -245,7 +245,7 @@ TODO : Bab ini agak panjang juga , saya pisahkan menjadi satu bab khusus.
 
 **Pengujian API menggunakan klien REST :: POSTMAN (chrome packaged app)**
 
-TODO : 
+Boleh merujuk pada nota ini : []().
 
 **Aplikasi pada platform mudah alih - hybrid phonegap/cordova**
 

@@ -8,6 +8,12 @@ tags: []
 {% include JB/setup %}
 
 
+**Sumber Rujukan : **
+
+<iframe width="600" height="400" src="//www.youtube.com/embed/oXxbB5kv9OA" frameborder="0" allowfullscreen></iframe>
+
+
+
 **1.0   Pendahuluan**
 
 Mengapa setiap kali menggunakan aplikasi internet, kita perlu log masuk ? Sudah tentu! sebagai langkah
@@ -37,19 +43,19 @@ Ada dua cara kaedah **authentication** . Samada menggunakan Cookies atau Token
 
 Masalah Cookies
 
-Hard to scale,
-Performance bottlenecks,
-Requires state (session) persistence,
-Troublesome Cross-origin request sharing (CORS), Vulnerable to CSRF attacks,
-„Hacky” implementations in MV*. 
+Hard to scale
+Performance bottlenecks
+Requires state (session) persistence
+Troublesome Cross-origin request sharing (CORS), Vulnerable to CSRF attacks
+Hacky” implementations in MV*
 
 
 <img src="{{ASSET_PATH}}/images/token.png"/>
 **authentication** berasaskan **token**
 
-Easier to scale,
-Stateless,
-Secure,
-Performant,
-Cross-origin request sharing (CORS),
+Easier to scale
+Stateless
+Secure
+Performant
+Cross-origin request sharing (CORS)
 
