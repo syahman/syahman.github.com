@@ -38,7 +38,7 @@ yang digunakan sekarang **deprecated** atau **obsoleted**.
 
 Ada dua cara kaedah **authentication** . Samada menggunakan Cookies atau Token
 
-<img src="{{ASSET_PATH}}/images/cookies.png"/>
+<img src="{{ASSET_PATH}}/images/cookies.png" align="left"/>
 <span style="display:block;">**authentication** berasaskan **cookies**</span>
 
 Masalah Cookies
