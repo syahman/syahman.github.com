@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-
+Ini adalah lanjutan dari nota [http://www.shmn.my/2015/10/30/rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle/](http://www.shmn.my/2015/10/30/rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle/)
 
 **Rekabentuk API (Application Programming Interface) Untuk Aplikasi Buku555**
 
