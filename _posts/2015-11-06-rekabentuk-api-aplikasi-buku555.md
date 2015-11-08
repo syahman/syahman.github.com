@@ -63,27 +63,43 @@ kod ini apabila membangunkan sendiri API.
 
 ------------------------------------------------
 
-**4.0	Endpoint URL**
+**4.0	Endpoint (Routing) URL**
 
-Endpoint URL dalam rekabentuk API hendaklah mudah difahami dan berfungsi dengan baik. 
-Setiap URL untuk setiap fungsi aplikasi hendaklah dikenalpasti. Penggunaan API key diperlukan
-untuk akses data sensitif dan disaran menggunakan secure HTTP (https) untuk mengelakkan pencerobohan data oleh
+Endpoint URL dalam rekabentuk API hendaklah mudah difahami dan berfungsi dengan baik, mempunyai mesej respon
+yang mempunyai makna dan mudah dibaca **(parse)** oleh klien REST.
+
+Setiap URL bagi setiap fungsi aplikasi hendaklah dikenalpasti. Penggunaan **API key** diperlukan
+untuk akses data sensitif dan disaran menggunakan **secure HTTP (https)** untuk mengelakkan pencerobohan data oleh
 orang tengah (man-in-the-middle attack). Rujuk lebih lanjut OWASP bab API, web services. API key 
 diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint URL : 
 
+    Dengan Token : 
+    
     GET http://buku555.abc/users/:1
     guna method GET untuk dapatkan rekod users yang mempunyai userid=1 (contoh)
     
-    POST http://buku555.abc/users/
-    guna method POST untuk masukkan rekod users baru
+    Tanpa Token : 
     
+    POST http://buku555.abc/register/
+    guna method POST untuk masukkan daftar 
+    
+
+Rujukan OWASP :
+ 
+1. [https://www.owasp.org/index.php/Web_Service_Security_Cheat_Sheet](https://www.owasp.org/index.php/Web_Service_Security_Cheat_Sheet)
+2. [https://www.owasp.org/index.php/Web_Service_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Service_Security_Testing_Cheat_Sheet)
+3. [https://www.owasp.org/index.php/REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+
+**Tips** : Cara menggunakan self-signed certificate untuk webserver (NODEJS) : [https://github.com/coolaj86/nodejs-self-signed-certificate-example](https://github.com/coolaj86/nodejs-self-signed-certificate-example) 
+Untuk production hendaklah menggunakan **Authorized SSL Certificate** dari Symantec,Digicert dll.
+   
 --------------------------------------------------
 
 
 **5.0  Rekabentuk Struktur Endpoint URL Buku555**
 
 
-TODO : Masukkan gambarajah arkitektur ..  
+<img src="{{ASSET_PATH}}/images/restdg.png"/>
 
 
 
@@ -91,18 +107,19 @@ Rekabentuk API untuk aplikasi Buku555 adalah seperti jadual di bawah. Setiap end
 fungsi khusus yang berkaitan dengan CRUD. 
 
 {: .table .table-striped}
-|# | Endpoint URL                | Kaedah    |Parameter                | Keterangan                      |
-|--|-----------------------------|-----------|-----------------------------------------------------------|
-|1 | /users  	                 | POST	     | tba| rekod baru users |
-|2 | /users/:userid              | GET	     | tba| baca rekod users |
-|3 | /users/:userid	             | PUT	     | tba| update rekod users |
-|4 | /users/:userid              | DELETE	 | tba| padam rekod users |
-|5 | /trxs       	             | POST	     | tba| transaksi baru |
-|6 | /trxs/:userid	             | GET	     | tba| baca transaksi/userid |
-|7 | /trxs/:userid	             | PUT	     | tba| update transaksi/userid |
-|8 | /trxs/:trxid/:userid        | DELETE	 | tba| padam rekod transaksi |
-|9 | /about	                     | GET	     | tba| kredit aplikasi |
-|10| /version                    | GET       | tba| versi api |
+|# | Endpoint URL                | Kaedah    |Parameter                | Keterangan                      | Token ? |
+|--|-----------------------------|-----------|-----------------------------------------------------------|--------|
+|1 | /users  	                 | POST	     | rujuk skema| rekod baru users | N |
+|2 | /users/:userid              | GET	     | userid| baca rekod users | Y
+|3 | /users/:userid	             | PUT	     | userid+rujuk skema| update rekod users | Y |
+|4 | /users/:userid              | DELETE	 | userid| padam rekod users | Y |
+|5 | /trxs       	             | POST	     | rujuk skema| transaksi baru | Y |
+|6 | /trxs/:userid	             | GET	     | userid| baca transaksi/userid | Y |
+|8 | /trxs/det/:trxid/:userid	 | GET	     | trxid,userid| transaksi detail | Y |
+|9 | /trxs/det/:trxid/:userid    | PUT	     | trxid,userid| update transaksi/userid/trxid | Y |
+|10 | /trxs/det/:trxid/:userid   | DELETE	 | trxid,userid| padam rekod transaksi/userid/trxid | Y |
+|11 | /about	                 | GET	     | -| kredit aplikasi | N |
+|12| /version                    | GET       | -| versi api | N |
 
 ----------------------------------------------------------------
 
