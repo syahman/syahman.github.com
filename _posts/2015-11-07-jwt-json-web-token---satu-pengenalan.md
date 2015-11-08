@@ -44,18 +44,18 @@ Ada dua cara kaedah **authentication** . Samada menggunakan Cookies atau Token
 Masalah Cookies
 
 1. Hard to scale
-Performance bottlenecks
-Requires state (session) persistence
-Troublesome Cross-origin request sharing (CORS), Vulnerable to CSRF attacks
-Hacky” implementations in MV*
+2. Performance bottlenecks
+3. Requires state (session) persistence
+4. Troublesome Cross-origin request sharing (CORS), Vulnerable to CSRF attacks
+5. Hacky” implementations in MV*
 
 
 <img src="{{ASSET_PATH}}/images/token.png"/>
 **authentication** berasaskan **token**
 
 1. Easier to scale
-Stateless
-Secure
-Performant
-Cross-origin request sharing (CORS)
+2. Stateless
+3. Secure
+4. Performant
+5. Cross-origin request sharing (CORS)
 
