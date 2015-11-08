@@ -95,7 +95,7 @@ TODO :
  
 TODO: 
 
-**6.0   Senario 2 - Sebagai Single Sign On Server Dalaman (Local SSO) ** 
+**6.0   Senario 2 - Sebagai Single Sign On Server Dalaman (Local SSO)** 
 
 TODO : 
 
