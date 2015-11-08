@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rekabentuk API Aplikasi Buku555"
+title: "Rekabentuk RESTfull API Aplikasi Buku555"
 description: ""
 category: 
 tags: []
