@@ -182,6 +182,33 @@ atau boleh bertanyakan terus pada kotak diskusi di bawah post ini atau pada Gith
     
     module.exports = router;    
 
+
+**7.0 Middleware JSON Web Token**
+
+Saya menulis lebih lanjut mengenai JWT disini [http://www.shmn.my/2015/11/07/jwt-json-web-token---satu-pengenalan/](http://www.shmn.my/2015/11/07/jwt-json-web-token---satu-pengenalan/). Dalam aplikasi Buku555, middleware JWT digunakan
+dalam **routes/users.js** dan **middlewares/validateRequest.js** . Contoh menjana **token** semasa
+pendaftaran baru pengguna (routes/users.js). Saya menggunakan pustaka nodejs jwt-simple [https://www.npmjs.com/package/jwt-simple](https://www.npmjs.com/package/jwt-simple).
+
+
+    function genToken(user) {
+        var expires = expiresIn(7); // 7 days
+        var token = jwt.encode({
+            exp: expires,
+            user:user
+        }, require('../config/secret')());
+        return {
+            token: token,
+            expires: expires, // client should check token expire date
+            user: user
+        };
+    }
+    
+    function expiresIn(numDays) {
+        var dateObj = new Date();
+        return dateObj.setDate(dateObj.getDate() + numDays);
+    }
+        
+
 **7.0 Pengujian API menggunakan aplikasi chrome POSTMAN**
 
 
