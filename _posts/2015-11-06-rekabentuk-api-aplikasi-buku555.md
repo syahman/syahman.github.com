@@ -83,7 +83,7 @@ yang mempunyai makna dan mudah dibaca **(parse)** oleh klien REST.
 Setiap URL bagi setiap fungsi aplikasi hendaklah dikenalpasti. Penggunaan **API key** diperlukan
 untuk akses data sensitif dan disaran menggunakan **secure HTTP (https)** untuk mengelakkan pencerobohan data oleh
 orang tengah (man-in-the-middle attack). Rujuk lebih lanjut OWASP bab API, web services. API key 
-diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint URL : 
+diletakkan dalam header HTTP, POST dan URL (GET). contoh endpoint(routing) URL : 
 
     Dengan Token : 
     
