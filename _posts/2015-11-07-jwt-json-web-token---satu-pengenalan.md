@@ -106,3 +106,14 @@ TODO :
 1. [https://scotch.io/tutorials/the-anatomy-of-a-json-web-token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
 2. [http://jwt.io](http://jwt.io) 
 3. [https://support.zendesk.com/hc/en-us/articles/203663816-Setting-up-single-sign-on-with-JWT-JSON-Web-Token-](https://support.zendesk.com/hc/en-us/articles/203663816-Setting-up-single-sign-on-with-JWT-JSON-Web-Token-)
+
+**How to use JWT securely**
+
+i. Sign your tokens with a strong key that is available only to the authentication service
+Rotate your keys frequently
+Keep expiration times reasonably short
+Server must verify that the token was signed with your secret key
+Use the tokens to fetch the data, not to store it
+Encrypt your tokens if you have to put sensitive, non-opaque information in them
+Use a custom claim that prevents URL tampering, e.g. URL hash, Watch for XSS
+Never transmit tokens over a non-HTTPS connection
