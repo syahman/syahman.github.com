@@ -40,7 +40,7 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
     );
     
     
-    CREATE TABLE b_trx
+    CREATE TABLE b_trxs
     ( trxid number(10) NOT NULL,
       userid number(10) NOT NULL,
       amount number(7,2) NOT NULL,
@@ -57,8 +57,8 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
     CREATE INDEX b_users_idx
       ON b_users (userid,emel);
     
-    CREATE INDEX b_trx_idx
-      ON b_trx (trxid,userid);
+    CREATE INDEX b_trxs_idx
+      ON b_trxs (trxid,userid);
       
     CREATE SEQUENCE b_users_seq
       MINVALUE 1
@@ -66,7 +66,7 @@ Anda boleh merujuk kepada tutorial pemasangan pangkalan data oracle 11g XE cento
       INCREMENT BY 1
       NOCACHE;
       
-    CREATE SEQUENCE b_trx_seq
+    CREATE SEQUENCE b_trxs_seq
           MINVALUE 1
           START WITH 1
           INCREMENT BY 1
