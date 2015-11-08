@@ -127,7 +127,7 @@ fungsi khusus yang berkaitan dengan CRUD.
 **6.0 Sampel Aturcara (routes/index.js)**
 
 Anda boleh merujuk kepada kod sumber penuh di Github [](). Penerangan aturcara akan saya kemaskini
-atau boleh bertanyakan terus pada kotak diskusi di bawah post ini.
+atau boleh bertanyakan terus pada kotak diskusi di bawah post ini atau pada Github issues projek Buku555 []().
 
     var express = require('express');
     var router = express.Router();
