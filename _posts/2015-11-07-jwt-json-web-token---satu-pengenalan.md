@@ -65,3 +65,25 @@ Kelebihan Token
 4. Performant
 5. Cross-origin request sharing (CORS)
 
+
+**3.0 Apakah JSON Web Tokens (JWT) ?**
+ 
+
+**JSON Web Token** adalah standard baru industri (RFC 7519 - rujuk Internet Engineering Task Force [https://tools.ietf.org/html/rfc7519](https://tools.ietf.org/html/rfc7519).
+Disebut dalam English sebagai "jot", membolehkan maklumat dibawa dalam bentuk JSON dengan selamat. 
+
+**JSON Web Tokens** adalah terbuka, kaedah yang mengesahkan identiti (tuntutan?)  antara dua pihak. 
+
+**JSON Web Tokens** boleh didapati dalam pustaka .NET, Python, Node.js, Java, PHP, Ruby, Go, JavaScript, dan Haskell.
+Implementasi boleh digunakan dalam pelbagai senario.
+
+JWTs membawa pakej maklumat sendiri : JWT membolehkan maklumat asas pengguna diletakkan dalam token dalam bentuk **payload** Biasanya token JWT terdiri daripada 3 komponen asas,
+Header,Payload,Signature. Contoh JWT  seperti di bawah : 
+
+<img src="{{ASSET_PATH}}/images/jwttoken.png"/>
+
+JWT boleh dihantar dengan mudah. Boleh dimasukkan dalam HTTP header, kaedah POST atau diletakkan
+dalam URL (kaedah GET). 
+
+**Tips** : Jika saiz JWT besar (sebab banyak sangat payload dimasukkan), lebih sesuai letak dalam HTTP header atau kaedah POST.
+
