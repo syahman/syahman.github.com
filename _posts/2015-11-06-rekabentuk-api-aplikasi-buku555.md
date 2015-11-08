@@ -43,7 +43,7 @@ GET,POST,PUT dan DELETE. Ada lagi kaedah HTTP lain seperti OPTIONS,PATCH,HEAD te
 digunakan. Setiap kaedah bergantung kepada keperluan aplikasi, sudah tentu setiap aplikasi
 perlu ada CRUD (Create,Read,Update dan Delete). 
 
-Cuba anda hubung kait kaedah di bawah ini dengan CRUD. 
+Cuba anda hubung kait kaedah di bawah ini dengan CRUD :  
 
 {: .table .table-striped}
 | Kaedah | Keterangan                  |
