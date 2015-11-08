@@ -207,8 +207,35 @@ pendaftaran baru pengguna (routes/users.js). Saya menggunakan pustaka nodejs jwt
         var dateObj = new Date();
         return dateObj.setDate(dateObj.getDate() + numDays);
     }
+     
         
+        
+**8.0   Komponen - Rujuk package.json**
 
-**8.0 Pengujian API menggunakan aplikasi chrome POSTMAN**
+    {
+      "name": "buku555",
+      "version": "1.0.0",
+      "description": "aplikasi buku hutang mudah",
+      "main": "server.js",
+      "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+      },
+      "author": "",
+      "license": "",
+      "dependencies": {
+        "body-parser": "^1.14.1",
+        "express": "^4.13.3",
+        "jsonwebtoken": "^5.4.1",
+        "jwt-simple": "^0.3.1",
+        "md5": "^2.0.0",
+        "moment": "^2.10.6",
+        "morgan": "^1.6.1",
+        "oracledb": "^1.3.0",
+        "path": "^0.12.7"
+      }
+    }
+   
+    
+**9.0 Pengujian API menggunakan aplikasi chrome POSTMAN**
 
 
