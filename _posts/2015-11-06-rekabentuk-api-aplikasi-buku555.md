@@ -45,7 +45,7 @@ Cuba anda hubung kait kaedah di bawah ini dengan CRUD.
 
 **3.0	HTTP Status Code**
 
-Setiap request akan ada reply. Jadual di bawah adalah contoh kod status HTTP. Anda akan lebih memahami
+Setiap **request** akan ada **respons**. Jadual di bawah adalah contoh kod status HTTP. Anda akan lebih memahami
 kod ini apabila membangunkan sendiri API. 
 
 {: .table .table-striped}
