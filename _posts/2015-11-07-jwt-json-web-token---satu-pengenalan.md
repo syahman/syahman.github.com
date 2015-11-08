@@ -8,6 +8,8 @@ tags: []
 {% include JB/setup %}
 
 
+    Don’t disapprove solutions just because you don’t know them or that’s a hyped opinion. Explore options. Read the code. Know the tools. Be better.
+
 **Sumber Rujukan :**
 
 <iframe width="600" height="400" src="//www.youtube.com/embed/oXxbB5kv9OA" frameborder="0" allowfullscreen></iframe>
