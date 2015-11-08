@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-11-06-expressjs-dan-oracle---mengaturcara-api.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" afterPath="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,8 +54,8 @@
       <file leaf-file-name="2015-11-06-rekabentuk-api-aplikasi-buku555.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.740099">
-              <caret line="253" column="7" selection-start-line="253" selection-start-column="7" selection-end-line="253" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.33415842">
+              <caret line="9" column="232" selection-start-line="9" selection-start-column="232" selection-end-line="9" selection-end-column="232" />
               <folding />
             </state>
           </provider>
@@ -590,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.740099">
-          <caret line="253" column="7" selection-start-line="253" selection-start-column="7" selection-end-line="253" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.33415842">
+          <caret line="9" column="232" selection-start-line="9" selection-start-column="232" selection-end-line="9" selection-end-column="232" />
           <folding />
         </state>
       </provider>

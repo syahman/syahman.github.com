@@ -14,17 +14,6 @@ Ini adalah lanjutan dari nota [http://www.shmn.my/2015/10/30/rekabentukmemasangm
 
 **1.0	Pendahuluan**
 
-
-Saya pernah menggunakan PHP SLIM untuk mengaturcara API untuk aplikasi mudah alih. Kali ini,ingin
-belajar ilmu baru, teknologi anak muda zaman sekarang (feeling too old!!). Mengapa memilih oracle 
-sebagai backend ?  Kerja seharian saya adalah berkaitan oracle. Selain itu, ORACLE telah menyumbang
-kepada pembangunan driver nodejs yang membuatkan saya tertarik. Saya juga berkeyakinan JAVASCRIPT adalah
-scripting language yang menjadi pilihan kepada pembangunan frontend pada hari ini,terutama SPA apps.
-Jadi, mengapa tidak bangunkan juga backend dalam JAVASCRIPT ? tepuk dada tanya otak, boleh ke nak code ni .. 
-
-Oracle juga telah menyediakan platform REST sendiri yang diberi nama **Oracle REST Data Services**. Rujukan
-mudah untuk menyediakan REST service menggunakan ORDS -> [https://jsao.io/2015/07/relational-to-json-with-ords/](https://jsao.io/2015/07/relational-to-json-with-ords/). Saya belum sempat menguji fungsi ORDS. 
-
 Arkitektur REST amat berguna untuk membangunkan aplikasi client/server berasaskan rangkaian.
 Maksud REST adalah Representational State Transfer. 
 
