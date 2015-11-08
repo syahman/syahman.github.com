@@ -96,11 +96,12 @@ diletakkan dalam header HTTP, bukan diletakkan sekali dalam URL. contoh endpoint
     guna method POST untuk masukkan daftar 
     
 
-Rujukan OWASP :
+Rujukan Keselamatan Berkaitan Web Services :
  
 1. [https://www.owasp.org/index.php/Web_Service_Security_Cheat_Sheet](https://www.owasp.org/index.php/Web_Service_Security_Cheat_Sheet)
 2. [https://www.owasp.org/index.php/Web_Service_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/Web_Service_Security_Testing_Cheat_Sheet)
 3. [https://www.owasp.org/index.php/REST_Security_Cheat_Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+4. [http://enterprisewebbook.com/ch9_security.html](http://enterprisewebbook.com/ch9_security.html)
 
 **Tips** : Cara menggunakan self-signed certificate untuk webserver (NODEJS) : [https://github.com/coolaj86/nodejs-self-signed-certificate-example](https://github.com/coolaj86/nodejs-self-signed-certificate-example) 
 Untuk production hendaklah menggunakan **Authorized SSL Certificate** dari Symantec,Digicert dll.
