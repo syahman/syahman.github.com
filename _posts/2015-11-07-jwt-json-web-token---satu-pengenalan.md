@@ -8,7 +8,7 @@ tags: []
 {% include JB/setup %}
 
 
-**Sumber Rujukan : **
+**Sumber Rujukan :**
 
 <iframe width="600" height="400" src="//www.youtube.com/embed/oXxbB5kv9OA" frameborder="0" allowfullscreen></iframe>
 
