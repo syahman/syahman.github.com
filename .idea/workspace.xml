@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/Gmail - Lazada - Order Confirmation.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md" afterPath="$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" afterPath="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.310345">
+            <state vertical-scroll-proportion="108.24138">
               <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="29" />
               <folding />
             </state>
@@ -39,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-07-jwt-json-web-token---satu-pengenalan.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-07-jwt-json-web-token---satu-pengenalan.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34802786">
+            <state vertical-scroll-proportion="-5.172414">
               <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
               <folding />
             </state>
@@ -55,8 +54,8 @@
       <file leaf-file-name="2015-11-06-expressjs-dan-oracle---mengaturcara-api.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-expressjs-dan-oracle---mengaturcara-api.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.344828">
-              <caret line="20" column="241" selection-start-line="20" selection-start-column="241" selection-end-line="20" selection-end-column="241" />
+            <state vertical-scroll-proportion="-6.206897">
+              <caret line="12" column="26" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="109" />
               <folding />
             </state>
           </provider>
@@ -65,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-06-rekabentuk-api-aplikasi-buku555.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-11-06-rekabentuk-api-aplikasi-buku555.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.392857">
-              <caret line="192" column="21" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.111386135">
+              <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -106,9 +105,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-06-expressjs-dan-oracle---mengaturcara-api.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
         <option value="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
       </list>
     </option>
   </component>
@@ -569,17 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-expressjs-dan-oracle---mengaturcara-api.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.344828">
-          <caret line="20" column="241" selection-start-line="20" selection-start-column="241" selection-end-line="20" selection-end-column="241" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.75862">
@@ -591,10 +579,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.392857">
-          <caret line="192" column="21" selection-start-line="192" selection-start-column="16" selection-end-line="192" selection-end-column="21" />
+        <state vertical-scroll-proportion="-5.172414">
+          <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
           <folding />
         </state>
       </provider>
@@ -604,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.310345">
+        <state vertical-scroll-proportion="108.24138">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="29" />
           <folding />
         </state>
@@ -613,10 +601,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-expressjs-dan-oracle---mengaturcara-api.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34802786">
-          <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="12" column="26" selection-start-line="11" selection-start-column="0" selection-end-line="16" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.111386135">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
           <folding />
         </state>
       </provider>
