@@ -209,6 +209,6 @@ pendaftaran baru pengguna (routes/users.js). Saya menggunakan pustaka nodejs jwt
     }
         
 
-**7.0 Pengujian API menggunakan aplikasi chrome POSTMAN**
+**8.0 Pengujian API menggunakan aplikasi chrome POSTMAN**
 
 
