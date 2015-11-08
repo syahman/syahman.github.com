@@ -39,11 +39,11 @@ yang digunakan sekarang **deprecated** atau **obsoleted**.
 Ada dua cara kaedah **authentication** . Samada menggunakan Cookies atau Token
 
 <img src="{{ASSET_PATH}}/images/cookies.png"/>
-**authentication** berasaskan **cookies**
+<span style="display:block;">**authentication** berasaskan **cookies**</span>
 
 Masalah Cookies
 
-Hard to scale
+1. Hard to scale
 Performance bottlenecks
 Requires state (session) persistence
 Troublesome Cross-origin request sharing (CORS), Vulnerable to CSRF attacks
@@ -53,7 +53,7 @@ Hacky” implementations in MV*
 <img src="{{ASSET_PATH}}/images/token.png"/>
 **authentication** berasaskan **token**
 
-Easier to scale
+1. Easier to scale
 Stateless
 Secure
 Performant
