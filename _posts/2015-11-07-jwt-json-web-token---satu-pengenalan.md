@@ -40,7 +40,7 @@ Ada dua cara kaedah **authentication** . Samada menggunakan Cookies atau Token
 
 <img src="{{ASSET_PATH}}/images/cookies.png" align="left"/>
 <span style="display:block;">**authentication** berasaskan **cookies**</span>
-
+-----------------------------------------------------------------
 Masalah Cookies
 
 1. Hard to scale
@@ -53,6 +53,8 @@ Masalah Cookies
 <img src="{{ASSET_PATH}}/images/token.png"/>
 **authentication** berasaskan **token**
 
+Kelebihan Token
+-----------------------------------------------------------------
 1. Easier to scale
 2. Stateless
 3. Secure
