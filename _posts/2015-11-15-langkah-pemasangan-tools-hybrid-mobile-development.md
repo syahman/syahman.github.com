@@ -62,7 +62,13 @@ run command
     
 [http://www.github.com](http://www.github.com)
     
-git clone https://github.com/telerik/whatsername.git    
+1. git clone https://github.com/telerik/whatsername.git 
+   
+2. cd whatsername
+
+3. sudo npm install 
+  
+4. bower install  
     
     
 
