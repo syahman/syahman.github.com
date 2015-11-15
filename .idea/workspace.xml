@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" afterPath="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +45,7 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.61904764">
-              <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
+              <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -689,7 +690,7 @@
       </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61904764">
-          <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
+          <caret line="60" column="52" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
           <folding />
         </state>
       </provider>
