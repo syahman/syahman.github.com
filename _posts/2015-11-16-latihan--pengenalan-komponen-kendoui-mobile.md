@@ -14,7 +14,7 @@ Untuk live demo keseluruhan penggunaan widget [http://demos.telerik.com/kendo-ui
 
 atau capture QR-CODE dibawah : 
 
-<img src="{{ASSET_PATH}}/images/qrkendodemo.png"/>
+<img src="{{ASSET_PATH}}/images/qrkendodemo.jpg"/>
 
 ---------------------------------------------------------------------------
 **Pengenalan**
