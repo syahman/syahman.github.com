@@ -10,6 +10,12 @@ tags: [kendo]
 
 **Latihan Pengenalan KendoUI Mobile**
 
+Untuk live demo keseluruhan penggunaan widget [http://demos.telerik.com/kendo-ui/m/index](http://demos.telerik.com/kendo-ui/m/index)
+
+atau capture QR-CODE dibawah : 
+
+<img src="{{ASSET_PATH}}/images/qrkendodemo.png"/>
+
 **Pengenalan**
 
 Kendo UI menyediakan  Widget khas untuk sentuhan (touch) yang akan digunakan dalam pembinaan
