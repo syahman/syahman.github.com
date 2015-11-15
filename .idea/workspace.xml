@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="" />
+    <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" afterPath="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
+    </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -35,14 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6666667">
-              <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+            <state vertical-scroll-proportion="-8.793103">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3537736">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,13 +112,13 @@
         <option value="$PROJECT_DIR$/_posts/2014-05-11-klien-rest---chrome-advance-rest-client.md" />
         <option value="$PROJECT_DIR$/_posts/2015-10-09-33-jam-hackaton.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-06-expressjs-dan-oracle---mengaturcara-api.md" />
         <option value="$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -155,6 +168,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="syahman.github.com" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="syahman.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="syahman.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -229,7 +252,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="23" width="1127" height="697" extended-state="6" />
+    <frame x="25" y="23" width="1127" height="697" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2359447" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -554,13 +577,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/11224569_10206414745641713_8238780254854217176_n.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -686,8 +702,16 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6666667">
-          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+        <state vertical-scroll-proportion="-8.793103">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3537736">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>

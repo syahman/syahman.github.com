@@ -9,7 +9,7 @@ tags: [hybrid,taco,cordova]
 
 ***Langkah Pemasangan Tools Hybrid Mobile Development***
 
-1. nodejs : [https://nodejs.org/en/](https://nodejs.org/en/) (make sure 4 LTS)
+1. nodejs : [https://nodejs.org/en/](https://nodejs.org/en/) (make sure versi4 LTS)
 2. nodejs version : node -v
 3. check java : java -version
 4. taco : sudo npm install -g taco-cli
@@ -19,12 +19,12 @@ tags: [hybrid,taco,cordova]
 8. taco install-reqs browser
 9. taco platform add android
 10. taco install-reqs android
-11. osx sahaja : taco platform add ios
-12. osx sahaja : taco install-reqs ios
+11. osx sahaja -> taco platform add ios
+12. osx sahaja -> taco install-reqs ios
 13. register akaun genymotion.com [https://www.genymotion.com](https://www.genymotion.com)
-14. download genymotion [https://www.genymotion.com](https://www.genymotion.com)
-15. download virtualbox [https://www.virtualbox.org/wiki/DownloadsVirtualBox](https://www.virtualbox.org/wiki/DownloadsVirtualBox) 5.0.10 for OS X hosts  amd64
-16. install git client (windows) [https://git-scm.com/download/win](https://git-scm.com/download/win) (osx-built in)
+14. download genymotion dan install [https://www.genymotion.com](https://www.genymotion.com) 
+15. download virtualbox dan install [https://www.virtualbox.org/wiki/DownloadsVirtualBox](https://www.virtualbox.org/wiki/DownloadsVirtualBox) 5.0.10 for OS X hosts  amd64
+16. windows sahaja -> install git client  [https://git-scm.com/download/win](https://git-scm.com/download/win) (mac dah sedia ada git)
 
 ----------------------------------------
 
@@ -37,7 +37,7 @@ Android ( install-reqs perlu run sekali sahaja! , bila create projek baru tak pe
 3. taco platform add android
 4. taco install-reqs android
 5. taco build android
-6. taco run android
+6. taco run android (pastikan adb services menunjukkan ada device(phone/tablet) yg detect/connected)
 
 IOS ( install-reqs perlu run sekali sahaja! , bila create projek baru tak perlu run )
 
@@ -69,8 +69,12 @@ run command
 3. sudo npm install 
   
 4. sudo npm install -g bower
+
+5. npm config set prefix /usr/local ( selesaikan masalah tak gulp not found-osx )
+
+6. npm config set prefix /usr/local
  
-5. bower install  
+7. bower install  
     
     
 
