@@ -16,6 +16,7 @@ atau capture QR-CODE dibawah :
 
 <img src="{{ASSET_PATH}}/images/qrkendodemo.png"/>
 
+---------------------------------------------------------------------------
 **Pengenalan**
 
 Kendo UI menyediakan  Widget khas untuk sentuhan (touch) yang akan digunakan dalam pembinaan
