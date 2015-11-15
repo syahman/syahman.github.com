@@ -68,7 +68,9 @@ run command
 
 3. sudo npm install 
   
-4. bower install  
+4. sudo npm install -g bower
+ 
+5. bower install  
     
     
 
