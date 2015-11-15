@@ -78,6 +78,50 @@ Rujukan [http://docs.telerik.com/kendo-ui/api/javascript/mobile/ui/detailbutton]
 Untuk Drawer, saya telah masukkan siap siap contoh dalam folder **src/menu/menu.html** . Ini kerana ia mengandungi
 link kepada halaman (view) untuk Widget kendoUI yang terlibat dalam latihan ini.
 
+Contoh kod : 
+
+    <div id="drawer">
+        <h3>Sports</h3>
+        <a href="#" data-target="baseball" class="drawer-link active">Baseball</a>
+        <a href="#" data-target="golf" class="drawer-link">Golf</a>
+    </div>
+    
+    <div id="content-container">
+        <a id="drawer-trigger" href="#"><span>Show drawer</span></a>
+        <div id="baseball" class="inner-content">
+            <h3>Baseball</h3>
+        </div>
+        <div id="golf" class="inner-content">
+            <h3>Golf</h3>
+        </div>
+    </div>
+    
+    <script>
+        $(function() {
+            $("#drawer").kendoMobileDrawer({
+                container: "#content-container"
+            });
+    
+            $("#drawer-trigger").click(function() {
+                $("#drawer").data("kendoMobileDrawer").show();
+                return false;
+            });
+    
+            $(".drawer-link").click(function() {
+                $("#drawer").data("kendoMobileDrawer").hide();
+                $(".drawer-link").removeClass("active");
+                $(this).addClass("active");
+                return false;
+            });
+    
+            $(".drawer-link").click(function(){
+                  $(".inner-content").hide();
+                  $("#"+$(this).data("target")).show();
+            });
+        });
+    </script>
+
+
 Rujukan [http://docs.telerik.com/kendo-ui/api/javascript/mobile/ui/drawer](http://docs.telerik.com/kendo-ui/api/javascript/mobile/ui/drawer)
 
 **8. Layout**
