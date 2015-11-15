@@ -12,7 +12,7 @@ tags: [kendo]
 
 Untuk live demo keseluruhan penggunaan widget [http://demos.telerik.com/kendo-ui/m/index](http://demos.telerik.com/kendo-ui/m/index)
 
-atau capture QR-CODE dibawah : 
+atau capture QR-CODE dibawah dengan telefon pintar anda : 
 
 <img src="{{ASSET_PATH}}/images/qrkendodemo.jpg"/>
 
