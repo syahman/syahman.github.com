@@ -19,9 +19,13 @@ tags: []
 8. taco install-reqs browser
 9. taco platform add android
 10. taco install-reqs android
-11. register akaun genymotion.com [https://www.genymotion.com](https://www.genymotion.com)
-12. download genymotion [https://www.genymotion.com](https://www.genymotion.com)
-13. download virtualbox [https://www.virtualbox.org/wiki/DownloadsVirtualBox](https://www.virtualbox.org/wiki/DownloadsVirtualBox) 5.0.10 for OS X hosts  amd64
-14. install git client windows [https://git-scm.com/download/win](https://git-scm.com/download/win) (osx-built in)
+11. osx sahaja : taco platform add ios
+12. osx sahaja : taco install-reqs ios
+13. register akaun genymotion.com [https://www.genymotion.com](https://www.genymotion.com)
+14. download genymotion [https://www.genymotion.com](https://www.genymotion.com)
+15. download virtualbox [https://www.virtualbox.org/wiki/DownloadsVirtualBox](https://www.virtualbox.org/wiki/DownloadsVirtualBox) 5.0.10 for OS X hosts  amd64
+16. install git client (windows) [https://git-scm.com/download/win](https://git-scm.com/download/win) (osx-built in)
+
+
 
 
