@@ -3,7 +3,7 @@ layout: post
 title: "Langkah Pemasangan Tools Hybrid Mobile Development"
 description: ""
 category: 
-tags: []
+tags: [hybrid,taco,cordova]
 ---
 {% include JB/setup %}
 
@@ -30,7 +30,7 @@ tags: []
 
 ***step to build/run***
 
-Android ( install-reqs perlu run sekali sahaja! )
+Android ( install-reqs perlu run sekali sahaja! , bila create projek baru tak perlu run )
 
 1. taco create hello my.edu.umt.hello
 2. cd hello
@@ -39,7 +39,7 @@ Android ( install-reqs perlu run sekali sahaja! )
 5. taco build android
 6. taco run android
 
-IOS ( install-reqs perlu run sekali sahaja! )
+IOS ( install-reqs perlu run sekali sahaja! , bila create projek baru tak perlu run )
 
 1. taco create hello my.edu.umt.hello
 2. cd hello
