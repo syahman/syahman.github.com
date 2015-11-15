@@ -30,7 +30,7 @@ tags: []
 
 ***step to build/run***
 
-Android
+Android ( install-reqs perlu run sekali sahaja! )
 
 1. taco create hello my.edu.umt.hello
 2. cd hello
@@ -39,7 +39,7 @@ Android
 5. taco build android
 6. taco run android
 
-IOS
+IOS ( install-reqs perlu run sekali sahaja! )
 
 1. taco create hello my.edu.umt.hello
 2. cd hello
