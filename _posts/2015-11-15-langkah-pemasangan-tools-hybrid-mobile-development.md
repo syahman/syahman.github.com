@@ -9,7 +9,7 @@ tags: [hybrid,taco,cordova]
 
 ***Langkah Pemasangan Tools Hybrid Mobile Development***
 
-1. nodejs : [https://nodejs.org/en/](https://nodejs.org/en/) (make sure versi4 LTS)
+1. nodejs : [https://nodejs.org/en/](https://nodejs.org/en/) (make sure versi 4.2.2 LTS)
 2. nodejs version : node -v
 3. check java : java -version
 4. taco : sudo npm install -g taco-cli
@@ -70,13 +70,8 @@ run command
   
 4. sudo npm install -g bower
 
-5. npm config set prefix /usr/local ( selesaikan masalah tak gulp not found-osx )
+5. npm config set prefix /usr/local ( selesaikan masalah gulp command not found-osx )
 
-6. npm config set prefix /usr/local
+6. sudo npm install -g gulp
  
 7. bower install  
-    
-    
-
-
-
