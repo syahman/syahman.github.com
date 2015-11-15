@@ -57,6 +57,10 @@ run command
     adb devices
     
     
+    
+git clone https://github.com/telerik/whatsername.git    
+    
+    
 
 
 
