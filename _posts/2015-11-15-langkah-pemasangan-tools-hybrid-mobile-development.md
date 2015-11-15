@@ -26,6 +26,37 @@ tags: []
 15. download virtualbox [https://www.virtualbox.org/wiki/DownloadsVirtualBox](https://www.virtualbox.org/wiki/DownloadsVirtualBox) 5.0.10 for OS X hosts  amd64
 16. install git client (windows) [https://git-scm.com/download/win](https://git-scm.com/download/win) (osx-built in)
 
+----------------------------------------
+
+***step to build/run***
+
+Android
+
+1. taco create hello my.edu.umt.hello
+2. cd hello
+3. taco platform add android
+4. taco install-reqs android
+5. taco build android
+6. taco run android
+
+IOS
+
+1. taco create hello my.edu.umt.hello
+2. cd hello
+3. taco platform add ios
+4. taco install-reqs ios
+5. taco build ios
+6. taco run ios
+
+
+
+***semak adb device**
+
+run command
+    
+    adb devices
+    
+    
 
 
 
