@@ -9,7 +9,7 @@ tags: []
 
 ***Langkah Pemasangan Tools Hybrid Mobile Development***
 
-1. nodejs : https://nodejs.org/en/ (make sure 4 LTS)
+1. nodejs : [https://nodejs.org/en/](https://nodejs.org/en/) (make sure 4 LTS)
 2. nodejs version : node -v
 3. check java : java -version
 4. taco : sudo npm install -g taco-cli
@@ -19,7 +19,9 @@ tags: []
 8. taco install-reqs browser
 9. taco platform add android
 10. taco install-reqs android
-11. register akaun genymotion.com
-12. download genymotion
-13. download virtualbox https://www.virtualbox.org/wiki/DownloadsVirtualBox 5.0.10 for OS X hosts  amd64
+11. register akaun genymotion.com [https://www.genymotion.com](https://www.genymotion.com)
+12. download genymotion [https://www.genymotion.com](https://www.genymotion.com)
+13. download virtualbox [https://www.virtualbox.org/wiki/DownloadsVirtualBox](https://www.virtualbox.org/wiki/DownloadsVirtualBox) 5.0.10 for OS X hosts  amd64
+14. install git client windows [https://git-scm.com/download/win](https://git-scm.com/download/win) (osx-built in)
+
 
