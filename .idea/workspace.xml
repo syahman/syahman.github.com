@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" afterPath="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,27 +38,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-25.655172">
-              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.8095238">
+              <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23809524">
-              <caret line="448" column="42" selection-start-line="448" selection-start-column="42" selection-end-line="448" selection-end-column="42" />
+            <state vertical-scroll-proportion="-292.2414">
+              <caret line="565" column="28" selection-start-line="565" selection-start-column="28" selection-end-line="565" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -120,8 +121,8 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
       </list>
     </option>
   </component>
@@ -304,13 +305,13 @@
     <frame x="126" y="78" width="1127" height="697" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2359447" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.437788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35751295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35751295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -754,24 +755,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-25.655172">
-          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23809524">
-          <caret line="448" column="42" selection-start-line="448" selection-start-column="42" selection-end-line="448" selection-end-column="42" />
+        <state vertical-scroll-proportion="-292.2414">
+          <caret line="565" column="28" selection-start-line="565" selection-start-column="28" selection-end-line="565" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8095238">
+          <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
           <folding />
         </state>
       </provider>

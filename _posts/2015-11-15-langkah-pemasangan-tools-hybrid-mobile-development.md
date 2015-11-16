@@ -75,3 +75,9 @@ run command
 6. sudo npm install -g gulp
  
 7. bower install  
+
+8. sekiranya ada masalah nak install bower, taip arahan di bawah :
+
+        git config --global url.https://github.com/.insteadOf git://github.com/
+    
+    kemudian, run semula step no. 7
