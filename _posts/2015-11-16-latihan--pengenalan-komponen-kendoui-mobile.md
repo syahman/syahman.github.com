@@ -439,7 +439,62 @@ Rujukan [http://docs.telerik.com/kendo-ui/api/javascript/mobile/application](htt
 
 **23. index.html**
 
-    <!-- views UI UMTKENDO-->
+    <!DOCTYPE html>
+    <html>
+    <head>
+    
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>UMTKENDO</title>
+        <meta charset="utf-8" />
+    
+        <!-- ##### WARNING #### READ THIS ####### 
+            Comments that start with 'build' are used below by gulp to concatenate files during prod build. 
+            Careful not to remove build: comments or the final build will break.
+        -->
+    
+        <!-- CSS include order matters, don't change it! 
+            Order is: bootstrap > kendo > kendoOverides > bootstrapOverrides > whatsername > view CSS 
+        -->
+    
+        <!-- build:css /thirdparty/thirdparty.css -->
+    
+        <link href="/bower_components/bootstrap/dist/css/bootstrap.css" rel="stylesheet"/>
+        <link href="/bower_components/kendo-ui/src/styles/mobile/kendo.mobile.common.css" rel="stylesheet"/>
+        <link href="/bower_components/kendo-ui/src/styles/mobile/kendo.mobile.flat.css" rel="stylesheet"/>
+    
+        <!-- endbuild -->
+    
+        <!-- build:css umt.css -->
+    
+    
+    
+    
+        <!-- globals CSS -->
+        <link href="/shared/css/kendoOverides.css" rel="stylesheet"/>
+        <link href="/shared/css/bootstrapOverides.css" rel="stylesheet"/>
+        <link href="/shared/css/umt.css" rel="stylesheet"/> <!-- i.e. global css -->
+    
+        <!-- views CSS -->
+        <!-- <link href="/ui/appInfo/appInfo.css" rel="stylesheet"/>-->
+    
+         <!-- layouts CSS -->
+         <link href="/shared/layouts/global/globalLayout.css" rel="stylesheet"/>
+    
+        <!-- endbuild -->
+    
+    </head>
+    <body>
+    
+        <!-- 
+        Below are templates, views, and layouts (included using gulp plugin during dev)
+    
+        Order is: templates > views > layouts
+        -->
+    
+        <!-- templates -->
+    
+    
+        <!-- views UI UMTKENDO-->
         @@include('./ui/actionsheet/actionsheet.html')
         @@include('./ui/backbutton/backbutton.html')
         @@include('./ui/button/button.html')
@@ -461,5 +516,59 @@ Rujukan [http://docs.telerik.com/kendo-ui/api/javascript/mobile/application](htt
         @@include('./ui/switch/switch.html')
         @@include('./ui/tabstrip/tabstrip.html')
         @@include('./ui/touch/touch.html')
-
+    
+    
+    
+    
+    
+        <!-- layouts -->
+        @@include('./shared/layouts/global/globalLayout.html')
+    
+    <!-- JS include order matters, don't change it!
+         Order is: namespace > jQuery > BOWER STUFF > kendo > utilities > models > viewModels > run app 
+     -->
+    
+    <!-- APP Namespace -->
+    
+    <script> this.umtapps = this.umt = {}; //long and shortcut namespace </script>
+    
+    <!-- build:js /thirdparty/thirdparty.js : Must run before utilities, models, and viewModels-->
+    
+    <script src="/bower_components/jquery/dist/jquery.js"></script>
+    <script src="/bower_components/canvasResize/binaryajax.js"></script>
+    <script src="/bower_components/canvasResize/exif.js"></script>
+    <script src="/bower_components/canvasResize/canvasResize.js"></script>
+    <script src="/bower_components/lodash/dist/lodash.min.js"></script>
+    <script src="/bower_components/kendo-ui/src/js/kendo.ui.core.js"></script>
+    
+    <!-- endbuild -->
+    
+    <!-- build:js umt.js -->
+    
+    <!-- utilities : Must run before models & viewModels-->
+    <script src="/shared/utilities/extend.js"></script>
+    
+    <!-- models  : Must run before viewModels-->
+    <script src="/shared/models/umtmodel.js"></script>
+    
+    <!-- viewModels  -->
+    <!--<script src="/ui/groups/groupList/groupListViewModel.js"></script>-->
+    
+    <!-- endbuild -->
+    
+    <!-- run application  -->
+    <script>
+    umt.app = new kendo.mobile.Application(document.body, { //document.body is default, but I'm being explicit
+        skin: 'flat',
+        initial: 'intro', //this is the initial view to show
+        init: function() {
+            //fix mouse events in iOS don't do it for android, causes more issues than it fixes
+            kendo.UserEvents.defaultThreshold(kendo.support.mobileOS.device === 'android' ? 0:20);
+        }
+    });
+    </script>
+    
+    </body>
+    </html>
+    
 **Selamat Mencuba, Jika Ada Masalah Terus Tanya !**
