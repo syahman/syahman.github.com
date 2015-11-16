@@ -16,6 +16,11 @@ atau capture QR-CODE dibawah dengan telefon pintar anda :
 
 <img src="{{ASSET_PATH}}/images/qrkendodemo.jpg"/>
 
+Rujuk dokumentasi mengenai konsep **declarative binding** [http://www.telerik.com/blogs/mvvm_declarative_initialization_and_html5_data_attributes](http://www.telerik.com/blogs/mvvm_declarative_initialization_and_html5_data_attributes)
+
+
+
+
 ---------------------------------------------------------------------------
 **Pengenalan**
 
