@@ -437,4 +437,29 @@ Contoh kod :
 Rujukan [http://docs.telerik.com/kendo-ui/api/javascript/mobile/application](http://docs.telerik.com/kendo-ui/api/javascript/mobile/application)
 
 
+**23. index.html**
+
+    <!-- views UI UMTKENDO-->
+        @@include('./ui/actionsheet/actionsheet.html')
+        @@include('./ui/backbutton/backbutton.html')
+        @@include('./ui/button/button.html')
+        @@include('./ui/buttongroup/buttongroup.html')
+        @@include('./ui/collapsible/collapsible.html')
+        @@include('./ui/detailbutton/detailbutton.html')
+        @@include('./ui/intro/intro.html')
+        @@include('./ui/listview/listview.html')
+        @@include('./ui/loader/loader.html')
+        @@include('./ui/menu/menu.html')
+        @@include('./ui/mobilewidget/mobilewidget.html')
+        @@include('./ui/modalview/modalview.html')
+        @@include('./ui/navbar/navbar.html')
+        @@include('./ui/pane/pane.html')
+        @@include('./ui/popover/popover.html')
+        @@include('./ui/scroller/scroller.html')
+        @@include('./ui/scrollview/scrollview.html')
+        @@include('./ui/splitview/splitview.html')
+        @@include('./ui/switch/switch.html')
+        @@include('./ui/tabstrip/tabstrip.html')
+        @@include('./ui/touch/touch.html')
+
 **Selamat Mencuba, Jika Ada Masalah Terus Tanya !**
