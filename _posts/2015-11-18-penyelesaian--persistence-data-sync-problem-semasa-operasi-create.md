@@ -15,9 +15,10 @@ primary key dijana secara auto (incremental number), saya tidak dapat sync data 
 data di server dikongsi oleh ramai pengguna. Operasi **Read Update Delete** tiada masalah kerana Apps
 hanya perlu resync balik data,reference semula UUIDs untuk dapatkan data terkini dari server. 
 
-lakaran dibawah menggambarkan solution yang mungkin boleh digunakan : 
+lakaran dibawah menggambarkan solution yang boleh digunakan : 
 
 <img src="{{ASSET_PATH}}/images/uuids.png"/>
 
 -----------------------------------------------------
 
+Implementasi UUIDs boleh dibuat dengan memasukkan reference pustaka UUIDs, lihat [https://github.com/broofa/node-uuid](https://github.com/broofa/node-uuid).
