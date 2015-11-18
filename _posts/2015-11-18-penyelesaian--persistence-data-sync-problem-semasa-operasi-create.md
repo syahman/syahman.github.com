@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Penyelesaian : Persistence Data Sync Problem Semasa Operasi Insert"
+title: "Penyelesaian : Persistence Data Sync Problem Semasa Operasi Create"
 description: ""
 category: 
 tags: []
@@ -8,7 +8,7 @@ tags: []
 {% include JB/setup %}
 
 
-**Penyelesaian : Persistence Data Sync Problem Semasa Operasi Insert**
+**Penyelesaian : Persistence Data Sync Problem Semasa Operasi Create**
 
 Ketika mengendalikan kursus mobile hybrid, saya perasan masalah ini. Oleh kerana 
 primary key dijana secara auto (incremental number), saya tidak dapat sync data dengan sempurna, sebab
