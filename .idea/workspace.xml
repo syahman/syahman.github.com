@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" afterPath="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" />
-    </list>
+    <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="" />
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -90,14 +87,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2857143">
-              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+            <state vertical-scroll-proportion="-4.6551723">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9047619">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -137,6 +147,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md" />
       </list>
     </option>
   </component>
@@ -796,8 +807,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2857143">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        <state vertical-scroll-proportion="-4.6551723">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9047619">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
