@@ -111,7 +111,7 @@ fungsi khusus yang berkaitan dengan CRUD.
 {: .table .table-striped}
 |# | Endpoint URL                | Kaedah    |Parameter                | Keterangan                      | Token ? |
 |--|-----------------------------|-----------|-----------------------------------------------------------|--------|
-|1 | /users  	                 | POST	     | rujuk skema| rekod baru users | N |
+|1 | /register                   | POST	     | rujuk skema| rekod baru users | N |
 |2 | /users/:userid              | GET	     | userid| baca rekod users | Y
 |3 | /users/:userid	             | PUT	     | userid+rujuk skema| update rekod users | Y |
 |4 | /users/:userid              | DELETE	 | userid| padam rekod users | Y |
@@ -146,6 +146,7 @@ atau boleh bertanyakan terus pada kotak diskusi di bawah post ini atau pada Gith
     router.post('/login', auth.login);
     router.get('/about', info.info);
     router.get('/version', info.version);
+    router.post('/register',user.adduser);
     router.get('/testoracle',user.testoracle); //disable in production ..
     
     router.post('/register', user.adduser); // rekod baru users , no auth!
