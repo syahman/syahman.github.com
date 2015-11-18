@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="" />
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -89,14 +87,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-create.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-create.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-create.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23433875">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state vertical-scroll-proportion="-8.793103">
+              <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-11-19-panduan-load-projek-buku555-dalam-phonegapcordova.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-11-19-panduan-load-projek-buku555-dalam-phonegapcordova.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.52204174">
+              <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -151,6 +162,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-create.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-19-panduan-load-projek-buku555-dalam-phonegapcordova.md" />
       </list>
     </option>
   </component>
@@ -370,17 +382,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -842,8 +843,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23433875">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state vertical-scroll-proportion="-8.793103">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-19-panduan-load-projek-buku555-dalam-phonegapcordova.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52204174">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
           <folding />
         </state>
       </provider>
