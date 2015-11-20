@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/fontello.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2015-11-19-moving-faster--learning-angular.md" afterPath="$PROJECT_DIR$/_posts/2015-11-19-bergerak-pantas-belajar-angular.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="syahman.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,19 +64,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-07-jwt-json-web-token---satu-pengenalan.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2015-11-06-rekabentuk-api-aplikasi-buku555.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
           <provider editor-type-id="MarkdownPreviewEditor">
@@ -102,14 +90,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6264501">
+            <state vertical-scroll-proportion="-9.310345">
               <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-11-19-bergerak-pantas-belajar-angular.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-11-19-bergerak-pantas-belajar-angular.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4176334">
+              <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -180,6 +181,8 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-19-alamak--server-tak-boleh-boot.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-create.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-19-moving-faster--learning-angular.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-19-bergerak-pantas-belajar-angular.md" />
       </list>
     </option>
   </component>
@@ -408,17 +411,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="149" selection-start-line="10" selection-start-column="149" selection-end-line="10" selection-end-column="149" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -880,8 +872,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6264501">
+        <state vertical-scroll-proportion="-9.310345">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-19-bergerak-pantas-belajar-angular.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4176334">
+          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
           <folding />
         </state>
       </provider>
