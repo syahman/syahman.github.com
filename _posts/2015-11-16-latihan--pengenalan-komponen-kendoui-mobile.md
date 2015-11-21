@@ -17,6 +17,7 @@ atau capture QR-CODE dibawah dengan telefon pintar anda :
 <img src="{{ASSET_PATH}}/images/qrkendodemo.jpg"/>
 
 **BACA !** Penting juga untuk faham mengenai fungsian **declarative binding**. Rujuk dokumentasi mengenai konsep **declarative binding** [http://www.telerik.com/blogs/mvvm_declarative_initialization_and_html5_data_attributes](http://www.telerik.com/blogs/mvvm_declarative_initialization_and_html5_data_attributes).
+Juga tips dari Telerik Blog [http://developer.telerik.com/featured/20-kendo-ui-mobile-telerik-appbuilder-tips-tricks/](http://developer.telerik.com/featured/20-kendo-ui-mobile-telerik-appbuilder-tips-tricks/)
 
 
 
