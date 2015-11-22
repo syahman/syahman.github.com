@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c30ea79-a0c4-4fd0-90f9-4e1727994f81" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/font1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/font3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/font4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/font5.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/Screen Shot 2015-11-04 at 9.30.04 PM.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" afterPath="$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" />
     </list>
@@ -25,26 +30,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="237" column="26" selection-start-line="237" selection-start-column="26" selection-end-line="237" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
               <folding />
             </state>
@@ -57,8 +49,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="50" />
+            <state vertical-scroll-proportion="-2.0689654">
+              <caret line="19" column="208" selection-start-line="19" selection-start-column="208" selection-end-line="19" selection-end-column="208" />
               <folding />
             </state>
           </provider>
@@ -96,8 +88,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6264501">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.8607889">
+              <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -173,7 +165,6 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-rud---read-update-delete.md" />
@@ -182,6 +173,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--persistence-data-sync-problem-semasa-operasi-create.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-19-moving-faster--learning-angular.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-19-bergerak-pantas-belajar-angular.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" />
       </list>
     </option>
@@ -411,39 +403,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-06-rekabentuk-api-aplikasi-buku555.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="33" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="146" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-11-07-jwt-json-web-token---satu-pengenalan.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -704,11 +663,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/Screen Shot 2015-11-04 at 9.30.04 PM.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-09-33-jam-hackaton.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -812,17 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-11-18-penyelesaian--prevent-nodejsexpressjs-from-crashing.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -878,13 +821,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0689654">
+          <caret line="19" column="208" selection-start-line="19" selection-start-column="208" selection-end-line="19" selection-end-column="208" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/font5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/font1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/font3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/font4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6264501">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.8607889">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
           <folding />
         </state>
       </provider>
