@@ -24,19 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2015-11-15-langkah-pemasangan-tools-hybrid-mobile-development.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="82" column="35" selection-start-line="82" selection-start-column="35" selection-end-line="82" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md">
           <provider editor-type-id="MarkdownPreviewEditor">
@@ -89,11 +76,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="shmnupdate.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="shmnupdate.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shmnupdate.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10344828">
+            <state vertical-scroll-proportion="-1.6666666">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-12-06-solutions--hp-dynamic-smart-array-b140i-for-centos-7x-uefi-boot.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-12-06-solutions--hp-dynamic-smart-array-b140i-for-centos-7x-uefi-boot.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6581986">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,6 +180,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-11-16-latihan--pengenalan-komponen-kendoui-mobile.md" />
         <option value="$PROJECT_DIR$/_posts/2015-11-21-panduan--menggunakan-icon-sendiri-selain-dari-default.md" />
         <option value="$PROJECT_DIR$/_posts/2015-12-01-setup-apachemysql-cluster-with-drbdpacemaker-on-centos.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-12-06-solutions--hp-dynamic-smart-array-b140i-for-centos-7x-uefi-boot.md" />
       </list>
     </option>
   </component>
@@ -408,16 +409,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-panduan-pemasangan-oraclexe-pada-server-centos.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="146" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-10-30-rekabentukmemasangmenguji-rest-api-menggunakan-nodejsexpressjsoracle.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -846,8 +837,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shmnupdate.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10344828">
+        <state vertical-scroll-proportion="-1.6666666">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-12-06-solutions--hp-dynamic-smart-array-b140i-for-centos-7x-uefi-boot.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6581986">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
